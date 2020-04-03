@@ -1,0 +1,245 @@
+intents:
+  - question_id0
+  - question_id1
+  - question_id2
+  - question_id3
+  - question_id4
+  - question_id5
+  - question_id6
+  - question_id7
+  - question_id8
+  - question_id9
+  - question_id10
+  - question_id11
+  - question_id12
+  - question_id13
+  - question_id14
+  - question_id15
+  - question_id16
+  - question_id17
+  - question_id18
+  - question_id19
+  - question_id20
+  - question_id21
+  - question_id22
+  - question_id23
+  - question_id24
+  - question_id25
+  - question_id26
+  - question_id27
+  - question_id28
+  - question_id29
+  - question_id30
+  - question_id31
+  - question_id32
+  - question_id33
+  - question_id34
+  - question_id35
+  - question_id36
+  - question_id37
+  - question_id38
+  - question_id39
+  - question_id40
+  - question_id41
+  - question_id42
+  - question_id43
+  - question_id44
+  - question_id45
+  - question_id46
+  - question_id47
+  - question_id48
+  - question_id49
+  - question_id50
+  - question_id51
+  - question_id52
+  - question_id53
+  - question_id54
+  - question_id55
+  - question_id56
+  - question_id57
+  - question_id58
+  - question_id59
+  - question_id60
+  - question_id61
+  - question_id62
+  - question_id63
+  - question_id64
+  - question_id65
+  - question_id66
+  - question_id67
+  - question_id68
+  - question_id69
+  - question_id70
+  - question_id71
+  - question_id72
+  - question_id73
+  - question_id74
+  - question_id75
+  - question_id76
+  - question_id77
+  - question_id78
+  - question_id79
+  - question_id80
+responses:
+  answer_id0:
+    - text: Pokračujte prosím na formulář <a href="https://chotebor.cz/assets/File.ashx?id_org=5283&id_dokumenty=10577" target="_blank">Ohlášení k místnímu poplatku ze psů</a>
+  answer_id1:
+    - text: Pokračujte prosím na formulář Změna/odhlášení v evidenci místního poplatku ze psů
+  answer_id2:
+    - text: Pokračujte prosím na formulář Žádost o vrácení přeplatku za psa
+  answer_id3:
+    - text: Pokračujte prosím na formulář Čestné prohlášení důchod - pes
+  answer_id4:
+    - text: Pokračujte prosím na formulář Poplatek za ubytovací kapacity
+  answer_id5:
+    - text: Pokračujte prosím na formulář Vyúčtování místního poplatku z ubytovací kapacity
+  answer_id6:
+    - text: Pokračujte prosím na Ohlašovací povinnost k místnímu poplatku za komunální odpad
+  answer_id7:
+    - text: Pokračujte prosím na formulář Žádost o vrácení přeplatku poplatku za komunální odpad
+  answer_id8:
+    - text: Pokračujte prosím na formulář Oznámení o vzniku nároku na osvobození od místního poplatku za komunální odpad
+  answer_id9:
+    - text: Pokračujte prosím na formulář Oznámení o vzniku nároku na osvobození od místního poplatku za komunální odpad - děti, chataři
+  answer_id10:
+    - text: Pokračujte prosím na formulář Přihlašovací formulář do odvozného systému
+  answer_id11:
+    - text: Pokračujte prosím na formulář Zábor veřejného prostranství.
+  answer_id12:
+    - text: Pokračujte prosím na formulář Žádost o souhlas s užíváním veřejného prostranství - výkopy.
+  answer_id13:
+    - text: Pokračujte prosím na formulář Žádost o souhlas s užíváním veřejného prostranství - ostatní.
+  answer_id14:
+    - text: Pokračujte prosím na formulář Žádost o vydání nového dokladu k vozidlu.
+  answer_id15:
+    - text: Pokračujte prosím na formulář Žádost o zápis změny vlastníka nebo provozovatele
+  answer_id16:
+    - text: Pokračujte prosím na Informace ohledně cestovních pasů.
+  answer_id17:
+    - text: Pokračujte prosím na Informace ohledně občanských průkazů.
+  answer_id18:
+    - text: Žádost o vystavení rybářského lístku
+  answer_id19:
+    - text: Výsledky sčítání zvěře - MYSL 7
+  answer_id20:
+    - text: Plán mysliveckého hospodaření v honitbě část plán chovu a lovu pro zvěř spárkatou - MYSL 1
+  answer_id21:
+    - text: Plán mysliveckého hospodaření v honitbě část plán chovu a lovu pro zvěř drobnou - MYSL 2
+  answer_id22:
+    - text: Plán mysliveckého hospodaření v honitbě část plán lovu ostatních druhů zvěře - MYSL 3
+  answer_id23:
+    - text: Plán mysliveckého hospodaření v honitbě část plán péče o zvěř - MYSL 4
+  answer_id24:
+    - text: Plán mysliveckého hospodaření v honitbě část plán společných lovů zvěře - MYSL 5
+  answer_id25:
+    - text: Plán mysliveckého hospodaření v honitbě část plán počtu loveckých psů - MYSL 6
+  answer_id26:
+    - text: Měsíční hlášení o plnění plánu - MYSL 8
+  answer_id27:
+    - text: Žádost o prodloužení nájemní smlouvy
+  answer_id28:
+    - text: Žádost o pronájem městského bytu
+  answer_id29:
+    - text: Žádost o výměnu bytu
+  answer_id30:
+    - text: Obecné informace najdete v dokumentu Pronájem nemovitosti. Pokud jednáte jako fyzická osoba, pokračujte na Žádost o nájem, pacht nemovité věci ve vlastnictví města Chotěboř - FO, pokud ne, pokračujte prosím na Žádost o nájem, pacht nemovité věci ve vlastnictví města Chotěboř - PO.
+  answer_id31:
+    - text: Pokud jednáte jako fyzická osoba, pokračujte na Žádost o prodej nemovité věci ve vlastnictví města Chotěboř - FO, pokud ne, pokračujte prosím na Žádost o prodej nemovité věci ve vlastnictví města Chotěboř - PO.
+  answer_id32:
+    - text: Převod nemovitosti
+  answer_id33:
+    - text: Návrh na snížení výživného
+  answer_id34:
+    - text: Návrh na úpravu styku s nezl.
+  answer_id35:
+    - text: Návrh na určení péče a výživy pro dobu po rozvodu manželství rodičů
+  answer_id36:
+    - text: Návrh na určení péče a výživy pro dobu před a po rozvodu manželství rodičů
+  answer_id37:
+    - text: Návrh na určení péče a výživy
+  answer_id38:
+    - text: Návrh na zvýšení výživného
+  answer_id39:
+    - text: Přepravováné osoby těžce zdravotně postižené
+  answer_id40:
+    - text: Žádost o ustanovení zvláštního příjemce dávky důchodového pojištění
+  answer_id41:
+    - text: Žádost o ZS § 14 odst. 1 (památky)
+  answer_id42:
+    - text: Žádost o ZS § 14 odst. 2 (nemovitosti - nepamátky v městské památkové zóně)
+  answer_id43:
+    - text: Dotace na obnovu kulturní památky nacházející se v městské památkové zóně Chotěboř
+  answer_id44:
+    - text: Dotace na obnovu kulturní památky ORP
+  answer_id45:
+    - text: Mapa památkové zóny
+  answer_id46:
+    - text: Obnova kulturní památky nebo památky místního významu, obnova objektu nacházejícího se v městské památkové zoně
+  answer_id47:
+    - text: Ohrožení nebo poškození kulturní památky
+  answer_id48:
+    - text: Válečné hroby
+  answer_id49:
+    - text: Dotace na obnovu nepamátky MPZ Chotěboř
+  answer_id50:
+    - text: Žádost restaurování
+  answer_id51:
+    - text: Žádost o vydání závazného stanoviska na stavby - řízení podle zvláštních právních předpisů § 11 o státní památkové péči
+  answer_id52:
+    - text: Co patří do červeného kontejneru
+  answer_id53:
+    - text: Kácení dřevin nebo Žádost - povolení kácení dřevin
+  answer_id54:
+    - text: Lesní hospodářství
+  answer_id55:
+    - text: Odnětí ze ZPF nebo Žádost - odnětí ze ZPF
+  answer_id56:
+    - text: Odpady - kam s nimi nebo Proč a jak třídit
+  answer_id57:
+    - text: Zásah do významného krajinného prvku nebo žádost - zásah do VKP
+  answer_id58:
+    - text: Zpětný odběr elektrozařízení
+  answer_id59:
+    - text: Žádost o souhlas k netřídění odpadů
+  answer_id60:
+    - text: Žádost o souhrnné vyjádření odboru
+  answer_id61:
+    - text: Žádost o vydání závazného stanoviska k nevyjmenovaným zdrojům znečišťování ovzduší
+  answer_id62:
+    - text: Žádost o vyjádření ke zřízení zařízení biologicky rozložitelného odpadu
+  answer_id63:
+    - text: Žádost o závazné stanovisko z hlediska nakládání s odpady
+  answer_id64:
+    - text: Pokračujte prosím na formulář Žádost o vydání rozhodnutí o umístění stavby
+  answer_id65:
+    - text: Pokračujte prosím na formulář Žádost o změnu územního rozhodnutí o umístění stavby
+  answer_id66:
+    - text: Pokračujte prosím na formulář Žádost o vydání společného územního rozhodnutí a stavebního povolení
+  answer_id67:
+    - text: Pokračujte prosím na formulář Ohlášení stavby
+  answer_id68:
+    - text: Pokračujte prosím na formulář Žádost o stavební povolení
+  answer_id69:
+    - text: Pokračujte prosím na formulář Oznámení stavebního záměr s certifikátem autorizovaného inspektora
+  answer_id70:
+    - text: Pokračujte prosím na formulář Žádost o vydání kolaudačního souhlasu nebo na Návrh na vydání kolaudačního rozhodnutí
+  answer_id71:
+    - text: Pokračujte prosím na formulář Žádost o povolení předčasného užívání stavby
+  answer_id72:
+    - text: Pokračujte prosím na formulář Ohlášení odstranění
+  answer_id73:
+    - text: Pokračujte prosím na formulář Žádost o změnu stavby před dokončením
+  answer_id74:
+    - text: Pokračujte prosím na Mapu zimní údržby
+  answer_id75:
+    - text: Pokračujte prosím na Plán zimní údržby
+  answer_id76:
+    - text: Pokračujte prosím na formulář Přihlášky na vítání občánků
+  answer_id77:
+    - text: Pokračujte prosím na formulář Oznámení o konání shromáždění
+  answer_id78:
+    - text: Pokračujte prosím na Pravidla pro udělování cen města + nominační formulář
+  answer_id79:
+    - text: Pokračujte prosím na formulář Žádost o udělení souhlasu pro použití logotypu a znaku
+  answer_id80:
+    - text: Pokračujte prosím na formulář Žádost o individuální dotaci z rozpočtu města Chotěboř

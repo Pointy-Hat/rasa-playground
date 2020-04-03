@@ -1,0 +1,6130 @@
+[
+  {
+    "text": "kolik stojí placení za psa",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10045906901359558
+    }
+  },
+  {
+    "text": "zaplatit za dva psy",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.1003120020031929
+    }
+  },
+  {
+    "text": "koupil nového psa",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10038642585277557
+    }
+  },
+  {
+    "text": "přihlásit fenku",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10031037032604218
+    }
+  },
+  {
+    "text": "moje fenka už nežije",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10038671642541885
+    }
+  },
+  {
+    "text": "změnil bydliště a mám psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10039328038692474
+    }
+  },
+  {
+    "text": "prodej psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1002669483423233
+    }
+  },
+  {
+    "text": "ztráta psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10042161494493484
+    }
+  },
+  {
+    "text": "vrátit peníze za psa",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10042537748813629
+    }
+  },
+  {
+    "text": "vrátit přeplatek za psa",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10076311230659485
+    }
+  },
+  {
+    "text": "slevit psa pro důchodce žádost",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10026095062494278
+    }
+  },
+  {
+    "text": "sleva na psa kvůli důchodu",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.1003149002790451
+    }
+  },
+  {
+    "text": "ohlášení živnosti na hotel",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10039842128753662
+    }
+  },
+  {
+    "text": "co se požaduje při přihlašování platby za hotel",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10027464479207993
+    }
+  },
+  {
+    "text": "oznámení provozování lázní",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041368752717972
+    }
+  },
+  {
+    "text": "oznámit provozování lázní",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041848570108414
+    }
+  },
+  {
+    "text": "platit za ubytování turistů",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.1003255620598793
+    }
+  },
+  {
+    "text": "formulář pro vyúčtování poplatků ubytovací kapacity",
+    "intent": "question_id5",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1004052683711052
+    }
+  },
+  {
+    "text": "musí se platit za popelnici",
+    "intent": "question_id6",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1003318801522255
+    }
+  },
+  {
+    "text": "jak se přihlásit k platbě za popelnici",
+    "intent": "question_id6",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10024264454841614
+    }
+  },
+  {
+    "text": "žádost o vrácení přeplatku za popelnici",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10030120611190796
+    }
+  },
+  {
+    "text": "zrušil jsem popelnici dostanu peníze zpět",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10040096193552017
+    }
+  },
+  {
+    "text": "nárok na osvobození od platby za komunální odpad",
+    "intent": "question_id8",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10028335452079773
+    }
+  },
+  {
+    "text": "kdo nemusí platit za komunál",
+    "intent": "question_id8",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10044047236442566
+    }
+  },
+  {
+    "text": "komunální odpad na chatě",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10044043511152267
+    }
+  },
+  {
+    "text": "platí dítě za komunální odpad",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10038234293460846
+    }
+  },
+  {
+    "text": "třídit odpad zdarma",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10040516406297684
+    }
+  },
+  {
+    "text": "formulář jak získat popelnice na plast",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10033942759037018
+    }
+  },
+  {
+    "text": "mám nárok dostat popelnice na separovaný odpad",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.1003800705075264
+    }
+  },
+  {
+    "text": "třídit odpad ve městě",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1003488078713417
+    }
+  },
+  {
+    "text": "dočasné užívání veřejného prostranství",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10040352493524551
+    }
+  },
+  {
+    "text": "nahlásit zábor",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10036171972751617
+    }
+  },
+  {
+    "text": "vodovodní přípojka",
+    "intent": "question_id12",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10038377344608307
+    }
+  },
+  {
+    "text": "připojení nového odběrového místa",
+    "intent": "question_id12",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041853785514832
+    }
+  },
+  {
+    "text": "místo pro stánek",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042474418878555
+    }
+  },
+  {
+    "text": "umístit reklamní zařízení",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042353719472885
+    }
+  },
+  {
+    "text": "uspořádat pouť",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10044204443693161
+    }
+  },
+  {
+    "text": "umístění stavebního zařízení",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10055136680603027
+    }
+  },
+  {
+    "text": "kde je evidence motorového vozidla",
+    "intent": "question_id14",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041249543428421
+    }
+  },
+  {
+    "text": "vydání dokladu k novému autu",
+    "intent": "question_id14",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10028942674398422
+    }
+  },
+  {
+    "text": "změna vlastníka automobilu",
+    "intent": "question_id15",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10037007927894592
+    }
+  },
+  {
+    "text": "cestovní pas",
+    "intent": "question_id16",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10084561258554459
+    }
+  },
+  {
+    "text": "ztratit cestovní pas",
+    "intent": "question_id16",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10056290030479431
+    }
+  },
+  {
+    "text": "odcizil občanský průkaz",
+    "intent": "question_id17",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10046078264713287
+    }
+  },
+  {
+    "text": "lovit ryby",
+    "intent": "question_id18",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10042692720890045
+    }
+  },
+  {
+    "text": "kam sečíst zvěř v lese",
+    "intent": "question_id19",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10045860707759857
+    }
+  },
+  {
+    "text": "vypsat počet zvířat",
+    "intent": "question_id19",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10040183365345001
+    }
+  },
+  {
+    "text": "lovit chovat spárkatou zvěř",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10041189938783646
+    }
+  },
+  {
+    "text": "lovím chovat jeleny v honitbě",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041706264019012
+    }
+  },
+  {
+    "text": "formulář s plánem hospodaření v honitbě pro drobnou zvěř",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10040915012359619
+    }
+  },
+  {
+    "text": "lov chov bažantů a krocanů",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10023055970668793
+    }
+  },
+  {
+    "text": "lovit chovat husy kachny",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10036773979663849
+    }
+  },
+  {
+    "text": "chov lov králíků v honitbě",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.100227490067482
+    }
+  },
+  {
+    "text": "zabil lišku v honitbě",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10033649206161499
+    }
+  },
+  {
+    "text": "lovit škodnou lejstro",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10027230530977249
+    }
+  },
+  {
+    "text": "starání se o zvížata v honitbě",
+    "intent": "question_id23",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041794925928116
+    }
+  },
+  {
+    "text": "jít na lov zvěře s myslivci",
+    "intent": "question_id24",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1003936156630516
+    }
+  },
+  {
+    "text": "skupinově lovit zvěř",
+    "intent": "question_id24",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10029035061597824
+    }
+  },
+  {
+    "text": "evidence loveckého psa",
+    "intent": "question_id25",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10038978606462479
+    }
+  },
+  {
+    "text": "mám nového loveckého psa",
+    "intent": "question_id25",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042145848274231
+    }
+  },
+  {
+    "text": "plnit plán myslivců hlášení",
+    "intent": "question_id26",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042323917150497
+    }
+  },
+  {
+    "text": "prodloužit smlouvu o nájmu bytu",
+    "intent": "question_id27",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10026200115680695
+    }
+  },
+  {
+    "text": "prodloužit nájem bytu",
+    "intent": "question_id27",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10036953538656235
+    }
+  },
+  {
+    "text": "pronajmout místo k bydlení",
+    "intent": "question_id28",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10033188760280609
+    }
+  },
+  {
+    "text": "nespokojený po pronájmu bytu",
+    "intent": "question_id29",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10037034004926682
+    }
+  },
+  {
+    "text": "nechci bydlet v pronajatém bytě",
+    "intent": "question_id29",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1004176065325737
+    }
+  },
+  {
+    "text": "pronájem pozemku ve vlastnictví obce",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10039965808391571
+    }
+  },
+  {
+    "text": "pacht z obecní nemovitosti",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10034690797328949
+    }
+  },
+  {
+    "text": "prodej nemovitých věcí města",
+    "intent": "question_id31",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10040256381034851
+    }
+  },
+  {
+    "text": "přepsat vlastníka nemovitosti formulář",
+    "intent": "question_id32",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10039057582616806
+    }
+  },
+  {
+    "text": "jak změnit vlastníka nemovitosti",
+    "intent": "question_id32",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041659325361252
+    }
+  },
+  {
+    "text": "nechci vídání potomka a rodiče",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041786730289459
+    }
+  },
+  {
+    "text": "trávit více času se synem",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041061788797379
+    }
+  },
+  {
+    "text": "platit přídavky po rozvodu",
+    "intent": "question_id35",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10039500892162323
+    }
+  },
+  {
+    "text": "opatrovník po rozvodu",
+    "intent": "question_id35",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10028797388076782
+    }
+  },
+  {
+    "text": "starání se o děti před a po rozvodu",
+    "intent": "question_id36",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041681677103043
+    }
+  },
+  {
+    "text": "určení plátce výživného",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1002659797668457
+    }
+  },
+  {
+    "text": "stát se opatrovníkem dítěte",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041993111371994
+    }
+  },
+  {
+    "text": "řízení o péči a výživném",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041535645723343
+    }
+  },
+  {
+    "text": "expřítel platí málo na děti",
+    "intent": "question_id38",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1004071980714798
+    }
+  },
+  {
+    "text": "co potřebuji na průkaz O7",
+    "intent": "question_id39",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041709989309311
+    }
+  },
+  {
+    "text": "vystavit potvrzení O7",
+    "intent": "question_id39",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10033142566680908
+    }
+  },
+  {
+    "text": "žádost přijímat zvláštní důchodové dávky",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10024061053991318
+    }
+  },
+  {
+    "text": "závazné stanovisko státní památky",
+    "intent": "question_id41",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10028670728206635
+    }
+  },
+  {
+    "text": "závazné stanovisko objekt památková zóna",
+    "intent": "question_id42",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1004171296954155
+    }
+  },
+  {
+    "text": "dotace od města v rámci regenerace památek",
+    "intent": "question_id43",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1003115177154541
+    }
+  },
+  {
+    "text": "obnova kulturní památky v památkové zóně města dotace",
+    "intent": "question_id43",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10033102333545685
+    }
+  },
+  {
+    "text": "příspěvek na opravu památky město s rozšířenou působností",
+    "intent": "question_id44",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10040803253650665
+    }
+  },
+  {
+    "text": "kde je památková zóna ve městě",
+    "intent": "question_id45",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1004115641117096
+    }
+  },
+  {
+    "text": "obnova oblasti památek",
+    "intent": "question_id46",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10023966431617737
+    }
+  },
+  {
+    "text": "opravit památku místního významu",
+    "intent": "question_id46",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10056381672620773
+    }
+  },
+  {
+    "text": "ohlásit poškození kulturní památky",
+    "intent": "question_id47",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041126608848572
+    }
+  },
+  {
+    "text": "shořela památka",
+    "intent": "question_id47",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10035189986228943
+    }
+  },
+  {
+    "text": "oprava památníku války v obci",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10031550377607346
+    }
+  },
+  {
+    "text": "obnova pamětní desky v oblasti",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10034346580505371
+    }
+  },
+  {
+    "text": "dotace na rekonstrukci ne-památky",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10040907561779022
+    }
+  },
+  {
+    "text": "příspěvek na obnovu objektu v památkové oblasti",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041347146034241
+    }
+  },
+  {
+    "text": "restaurovat památku",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041084885597229
+    }
+  },
+  {
+    "text": "realizace restaurování kulturní památky",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041771084070206
+    }
+  },
+  {
+    "text": "žádost ohledně restaurování paragraf 14",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10037002712488174
+    }
+  },
+  {
+    "text": "stavba u kulturní památky",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042130202054977
+    }
+  },
+  {
+    "text": "stavět u kulturní památky",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042504221200943
+    }
+  },
+  {
+    "text": "funkce červeného kontejneru",
+    "intent": "question_id52",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10033661872148514
+    }
+  },
+  {
+    "text": "patří do červeného koše",
+    "intent": "question_id52",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10040874034166336
+    }
+  },
+  {
+    "text": "můžu pokácet průměr stromu",
+    "intent": "question_id53",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10034000873565674
+    }
+  },
+  {
+    "text": "jak zalesnit pozemek",
+    "intent": "question_id54",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10032811760902405
+    }
+  },
+  {
+    "text": "pozemek už nemá funkci lesa",
+    "intent": "question_id54",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10034626722335815
+    }
+  },
+  {
+    "text": "odejmout pozemek ze ZPF",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10025426000356674
+    }
+  },
+  {
+    "text": "žádost odejmout ze zemědělského půdního fondu",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10045967996120453
+    }
+  },
+  {
+    "text": "harmonogram svozu odpadu",
+    "intent": "question_id56",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041224211454391
+    }
+  },
+  {
+    "text": "stavět ve významném krajinném prvku",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10053350776433945
+    }
+  },
+  {
+    "text": "stavba u významného prvku krajiny",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042248666286469
+    }
+  },
+  {
+    "text": "vrácení elektrozařízení",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10028842091560364
+    }
+  },
+  {
+    "text": "vrátit ledničku, pračku",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10040338337421417
+    }
+  },
+  {
+    "text": "odebírá použitou elektroniku",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10026046633720398
+    }
+  },
+  {
+    "text": "zrušení odděleného shromažďování odpadů",
+    "intent": "question_id59",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10027366131544113
+    }
+  },
+  {
+    "text": "žádost odboru o vyjádření o vydání kolaudačního souhlasu",
+    "intent": "question_id60",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042054206132889
+    }
+  },
+  {
+    "text": "budova, co znečišťuje ovzduší",
+    "intent": "question_id61",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10025414079427719
+    }
+  },
+  {
+    "text": "stavím zdroj znečištění ovzduší",
+    "intent": "question_id61",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10032696276903152
+    }
+  },
+  {
+    "text": "zřízení zařízení pro biologický odpad",
+    "intent": "question_id62",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10039273649454117
+    }
+  },
+  {
+    "text": "postavit malou kompostárnu",
+    "intent": "question_id62",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042159259319305
+    }
+  },
+  {
+    "text": "stavba skládky",
+    "intent": "question_id63",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042192786931992
+    }
+  },
+  {
+    "text": "nově produkovat odpady",
+    "intent": "question_id63",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10040965676307678
+    }
+  },
+  {
+    "text": "žádost o umístění stavby",
+    "intent": "question_id64",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042489320039749
+    }
+  },
+  {
+    "text": "změna územního rozhodnutí o stavbě",
+    "intent": "question_id65",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042134672403336
+    }
+  },
+  {
+    "text": "změna rozhodnutí u umístění domu",
+    "intent": "question_id65",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041746497154236
+    }
+  },
+  {
+    "text": "žádost dohromady územní a stavební povolení",
+    "intent": "question_id66",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041043907403946
+    }
+  },
+  {
+    "text": "postavit malý dům",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10044846683740616
+    }
+  },
+  {
+    "text": "žádost o stavební povolení",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10040833801031113
+    }
+  },
+  {
+    "text": "podat stavební povolení",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1003972589969635
+    }
+  },
+  {
+    "text": "nástavba domu s plochou větší než 150 m2",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042288899421692
+    }
+  },
+  {
+    "text": "potřeba autorizovaného inspektora",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042443871498108
+    }
+  },
+  {
+    "text": "stavím technicky náročný dům",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10053492337465286
+    }
+  },
+  {
+    "text": "co s hotovou stavbou",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042503476142883
+    }
+  },
+  {
+    "text": "dokončil stavbu domu",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042152553796768
+    }
+  },
+  {
+    "text": "žádám o kolaudaci po kolaudačním řízení",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042080283164978
+    }
+  },
+  {
+    "text": "bydlení ve stavbě bez kolaudace",
+    "intent": "question_id71",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041508823633194
+    }
+  },
+  {
+    "text": "kde hlásit odstranění stavby",
+    "intent": "question_id72",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041823238134384
+    }
+  },
+  {
+    "text": "hlášení zbourání domku",
+    "intent": "question_id72",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041752457618713
+    }
+  },
+  {
+    "text": "jak změnit stavbu před dokončením",
+    "intent": "question_id73",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10041872411966324
+    }
+  },
+  {
+    "text": "kde se udržuje silnice v zimě",
+    "intent": "question_id74",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10037042945623398
+    }
+  },
+  {
+    "text": "posyp chodníků a silnic",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10025084763765335
+    }
+  },
+  {
+    "text": "kdy odklidit sníh z chodníků",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10045181959867477
+    }
+  },
+  {
+    "text": "kde se vymetá sníh dříve",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10041362792253494
+    }
+  },
+  {
+    "text": "slavnostní uvítání dítětě",
+    "intent": "question_id76",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10062957555055618
+    }
+  },
+  {
+    "text": "jak demonstrovat",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10074447840452194
+    }
+  },
+  {
+    "text": "oznámení veřejné oslavy",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10047680884599686
+    }
+  },
+  {
+    "text": "kdy svolat průvod, nebo demonstraci",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042344778776169
+    }
+  },
+  {
+    "text": "kdy svolat veřejnou oslavu",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042102634906769
+    }
+  },
+  {
+    "text": "výborné sportovní výkony",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10052186250686646
+    }
+  },
+  {
+    "text": "výborné úspěchy ve vzdělávacích soutěžích",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.1004018560051918
+    }
+  },
+  {
+    "text": "použití logotypu, nebo znaku obce",
+    "intent": "question_id79",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.100443035364151
+    }
+  },
+  {
+    "text": "použití znaku obce",
+    "intent": "question_id79",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042285174131393
+    }
+  },
+  {
+    "text": "poskytnutí dotace městem",
+    "intent": "question_id80",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.1003759503364563
+    }
+  },
+  {
+    "text": "mám nového psa",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10010625422000885
+    }
+  },
+  {
+    "text": "co nahlásit o psovi",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10020662844181061
+    }
+  },
+  {
+    "text": "narodila štěňata",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10043177008628845
+    }
+  },
+  {
+    "text": "nahlášení pejska",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10012619197368622
+    }
+  },
+  {
+    "text": "zemřel pes",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10034707933664322
+    }
+  },
+  {
+    "text": "už nemám psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10027581453323364
+    }
+  },
+  {
+    "text": "prodávám psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10047464817762375
+    }
+  },
+  {
+    "text": "odhlášení poplatku za psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id15",
+      "confidence": 0.10021381825208664
+    }
+  },
+  {
+    "text": "vrácení přeplatku za psa",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id74",
+      "confidence": 0.1008458063006401
+    }
+  },
+  {
+    "text": "už nemám psa požaduji peníze",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10042018443346024
+    }
+  },
+  {
+    "text": "žádost o slevu na psa pro důchodce",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10039631277322769
+    }
+  },
+  {
+    "text": "sleva na psa pro invalidní důchodce",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10050471872091293
+    }
+  },
+  {
+    "text": "otevření hotelu",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.1003151684999466
+    }
+  },
+  {
+    "text": "nahlášení provozu penzionu",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10035352408885956
+    }
+  },
+  {
+    "text": "požadavky přihlášení platby za hotel",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10029824823141098
+    }
+  },
+  {
+    "text": "platba za provoz ubytování",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10023744404315948
+    }
+  },
+  {
+    "text": "poplatek za ubytování hostů",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10023617744445801
+    }
+  },
+  {
+    "text": "hlášení o výběru poplatků z ubytování",
+    "intent": "question_id5",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10043822973966599
+    }
+  },
+  {
+    "text": "formulář platby za popelnici",
+    "intent": "question_id6",
+    "intent_prediction": {
+      "name": "question_id74",
+      "confidence": 0.10052461922168732
+    }
+  },
+  {
+    "text": "získání popelnice",
+    "intent": "question_id6",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10051324963569641
+    }
+  },
+  {
+    "text": "vrátit peníze za odpad",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id74",
+      "confidence": 0.10080036520957947
+    }
+  },
+  {
+    "text": "vrátit peníze za popelnice",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id74",
+      "confidence": 0.10073322057723999
+    }
+  },
+  {
+    "text": "jak se osvobodit od platby za odpad",
+    "intent": "question_id8",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.1004059836268425
+    }
+  },
+  {
+    "text": "platit méně za komunální odpad",
+    "intent": "question_id8",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10030320286750793
+    }
+  },
+  {
+    "text": "osvobození od platby za popelnici na chatě",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10030180215835571
+    }
+  },
+  {
+    "text": "platit méně za popelnici na dítě",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10051862895488739
+    }
+  },
+  {
+    "text": "půjčit popelnici na bioodpad",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id15",
+      "confidence": 0.100215382874012
+    }
+  },
+  {
+    "text": "kontejnery na tříděný odpad",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10045620054006577
+    }
+  },
+  {
+    "text": "kde popelnice na papír",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10050666332244873
+    }
+  },
+  {
+    "text": "přihlášení do odvozného systému odpadů",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10034196078777313
+    }
+  },
+  {
+    "text": "dočasný zábor veřejného prostranství",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10049846023321152
+    }
+  },
+  {
+    "text": "zvláštní užívání prostranství",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10014541447162628
+    }
+  },
+  {
+    "text": "kanalizační přípojka",
+    "intent": "question_id12",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10035247355699539
+    }
+  },
+  {
+    "text": "zařídit elektrickou přípojku",
+    "intent": "question_id12",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10036097466945648
+    }
+  },
+  {
+    "text": "pořádání kulturní akce na veřejnosti",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.1002538800239563
+    }
+  },
+  {
+    "text": "akce na náměstí",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10039772838354111
+    }
+  },
+  {
+    "text": "veřejná akce",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.1003079041838646
+    }
+  },
+  {
+    "text": "umístění nového lunaparku",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10034914314746857
+    }
+  },
+  {
+    "text": "mám nový automobil",
+    "intent": "question_id14",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10037828236818314
+    }
+  },
+  {
+    "text": "vydat doklad k novému autu",
+    "intent": "question_id14",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.1004449799656868
+    }
+  },
+  {
+    "text": "převést auto",
+    "intent": "question_id15",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10051419585943222
+    }
+  },
+  {
+    "text": "vystavení nového pasu",
+    "intent": "question_id16",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10016592592000961
+    }
+  },
+  {
+    "text": "udělání nového cestovního pasu",
+    "intent": "question_id16",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10037870705127716
+    }
+  },
+  {
+    "text": "ztráta občanky",
+    "intent": "question_id17",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10034818202257156
+    }
+  },
+  {
+    "text": "povolení k rybolovu",
+    "intent": "question_id18",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10040634125471115
+    }
+  },
+  {
+    "text": "vyplnit kolik je zvěře",
+    "intent": "question_id19",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10016454011201859
+    }
+  },
+  {
+    "text": "formulář pro sčítání zvěře",
+    "intent": "question_id19",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10009351372718811
+    }
+  },
+  {
+    "text": "lovit prasata v honitbě formulář",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10048041492700577
+    }
+  },
+  {
+    "text": "formulář pro vysokou zvěř",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10044782608747482
+    }
+  },
+  {
+    "text": "hospodařit s drobnou zvěří v honitbě",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10033252090215683
+    }
+  },
+  {
+    "text": "formulář lovení zajíců v honitbě",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.1004193127155304
+    }
+  },
+  {
+    "text": "chovat lovit králíky v honitbě",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10020679235458374
+    }
+  },
+  {
+    "text": "soupis ulovené ostatní zvěře",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10043180733919144
+    }
+  },
+  {
+    "text": "zabití lišky v honitbě",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10046014934778214
+    }
+  },
+  {
+    "text": "péče o zvířata v honitbě",
+    "intent": "question_id23",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10029666870832443
+    }
+  },
+  {
+    "text": "přikrmovat zvířat v honitbě",
+    "intent": "question_id23",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10030589997768402
+    }
+  },
+  {
+    "text": "jít lovit zvěř s kolegy",
+    "intent": "question_id24",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10036783665418625
+    }
+  },
+  {
+    "text": "lov s kolegy",
+    "intent": "question_id24",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10021427273750305
+    }
+  },
+  {
+    "text": "zapsat počet loveckých psů",
+    "intent": "question_id25",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10011690855026245
+    }
+  },
+  {
+    "text": "nahlásit měsíční plán myslivců",
+    "intent": "question_id26",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.1004193127155304
+    }
+  },
+  {
+    "text": "formulář pro plnění plánu myslivců",
+    "intent": "question_id26",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10016213357448578
+    }
+  },
+  {
+    "text": "brzy skončí nájem",
+    "intent": "question_id27",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10034865140914917
+    }
+  },
+  {
+    "text": "brzy vyprší nájemní smlouva",
+    "intent": "question_id27",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10048378258943558
+    }
+  },
+  {
+    "text": "bezdomovec bydlí",
+    "intent": "question_id28",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10030877590179443
+    }
+  },
+  {
+    "text": "nespokojenost po pronájmu bytu",
+    "intent": "question_id29",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10027820616960526
+    }
+  },
+  {
+    "text": "nespokojený s bytem od obce",
+    "intent": "question_id29",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10021115094423294
+    }
+  },
+  {
+    "text": "pronájem městského sadu",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10011828690767288
+    }
+  },
+  {
+    "text": "pronajmout městský sad",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10011251270771027
+    }
+  },
+  {
+    "text": "poptávám nemovitosti města",
+    "intent": "question_id31",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10027085244655609
+    }
+  },
+  {
+    "text": "převod nemovitosti",
+    "intent": "question_id32",
+    "intent_prediction": {
+      "name": "question_id15",
+      "confidence": 0.10021405667066574
+    }
+  },
+  {
+    "text": "převést nemovitost",
+    "intent": "question_id32",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10040922462940216
+    }
+  },
+  {
+    "text": "více se vídat se svým dítětem",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10012629628181458
+    }
+  },
+  {
+    "text": "být více s dcerou",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10037970542907715
+    }
+  },
+  {
+    "text": "starat se o děti po rozvodu",
+    "intent": "question_id35",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10019592195749283
+    }
+  },
+  {
+    "text": "starat se o děti před a po rozvodu",
+    "intent": "question_id36",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10010692477226257
+    }
+  },
+  {
+    "text": "určit péči a výživu před a po rozvodu",
+    "intent": "question_id36",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10038312524557114
+    }
+  },
+  {
+    "text": "kdo platí příspěvky na dítě",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10039470344781876
+    }
+  },
+  {
+    "text": "postará se o moji dceru",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10021486133337021
+    }
+  },
+  {
+    "text": "určení péče a výživy",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10007888823747635
+    }
+  },
+  {
+    "text": "vyšší přídavky",
+    "intent": "question_id38",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.1001831665635109
+    }
+  },
+  {
+    "text": "žádám o průkaz těžce zdravotně postiženého",
+    "intent": "question_id39",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10016422718763351
+    }
+  },
+  {
+    "text": "závazné stanovisko obnova památky",
+    "intent": "question_id41",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10034364461898804
+    }
+  },
+  {
+    "text": "stanovisko obnova rekonstrukce objekt památková zóna",
+    "intent": "question_id42",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.1000794768333435
+    }
+  },
+  {
+    "text": "dotace na rekonstrukci památky obec",
+    "intent": "question_id43",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10032599419355392
+    }
+  },
+  {
+    "text": "přispívá na opravu památky města",
+    "intent": "question_id43",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10026393830776215
+    }
+  },
+  {
+    "text": "obnova kulturní památky v památkové zóně dotace ORP",
+    "intent": "question_id44",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10028274357318878
+    }
+  },
+  {
+    "text": "mapa památkové zóny",
+    "intent": "question_id45",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10038938373327255
+    }
+  },
+  {
+    "text": "regenerace památek",
+    "intent": "question_id46",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10043498128652573
+    }
+  },
+  {
+    "text": "revitalizace objektu v památkové zóně",
+    "intent": "question_id46",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10015983134508133
+    }
+  },
+  {
+    "text": "poškodila se památka",
+    "intent": "question_id47",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10039102286100388
+    }
+  },
+  {
+    "text": "obnova válečného hrobu",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10047664493322372
+    }
+  },
+  {
+    "text": "rekonstrukce pietního místa",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10014162957668304
+    }
+  },
+  {
+    "text": "dotace na revitalizaci pomníku",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10028550028800964
+    }
+  },
+  {
+    "text": "přispívat na obnovu ne-památky ve městě",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10027502477169037
+    }
+  },
+  {
+    "text": "dotace na rekontrukci objektu v památkové zóně",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10010534524917603
+    }
+  },
+  {
+    "text": "formulář žádosti o restaurování objektu v památkové zóně",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10017526894807816
+    }
+  },
+  {
+    "text": "restaurovat památku podle paragrafu 14 žádost",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10008130967617035
+    }
+  },
+  {
+    "text": "obnovit památku dle paragrafu 11",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10011312365531921
+    }
+  },
+  {
+    "text": "závazné stanovisko stavby památky podle zvláštních předpisů",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10010245442390442
+    }
+  },
+  {
+    "text": "přestavět objekt v památkové oblasti",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10015405714511871
+    }
+  },
+  {
+    "text": "házet do červené popelnice",
+    "intent": "question_id52",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10046544671058655
+    }
+  },
+  {
+    "text": "povolení kácení dřevin",
+    "intent": "question_id53",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10026209056377411
+    }
+  },
+  {
+    "text": "oznámit kácení",
+    "intent": "question_id53",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10010703653097153
+    }
+  },
+  {
+    "text": "informace o lesním hospodaření",
+    "intent": "question_id54",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10037640482187271
+    }
+  },
+  {
+    "text": "pozemky s funkcí lesa informace",
+    "intent": "question_id54",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.1002810001373291
+    }
+  },
+  {
+    "text": "informace jak odejmout půdu z půdního fondu",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10029585659503937
+    }
+  },
+  {
+    "text": "požádat o odstranění ze zemědělského půdního fondu",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10051752626895905
+    }
+  },
+  {
+    "text": "význam barev popelnic",
+    "intent": "question_id56",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10048992931842804
+    }
+  },
+  {
+    "text": "kde jsou kontejnery a popelnice",
+    "intent": "question_id56",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10036132484674454
+    }
+  },
+  {
+    "text": "rekonstrukce významného prvku krajiny",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10016600042581558
+    }
+  },
+  {
+    "text": "pracovat u chráněného prvku krajiny",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10012561827898026
+    }
+  },
+  {
+    "text": "odebrat zpět elektroniku",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10037656128406525
+    }
+  },
+  {
+    "text": "vrácení ledničky, pračky",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id74",
+      "confidence": 0.10054627060890198
+    }
+  },
+  {
+    "text": "upuštění od třídění",
+    "intent": "question_id59",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10035963356494904
+    }
+  },
+  {
+    "text": "souhlas netřídit odpadky",
+    "intent": "question_id59",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10009477287530899
+    }
+  },
+  {
+    "text": "souhrnně se vyjádří odbor pro stavební řízení",
+    "intent": "question_id60",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10027717798948288
+    }
+  },
+  {
+    "text": "zřízení stacionárního zdroje znečištění vzduchu",
+    "intent": "question_id61",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10029750317335129
+    }
+  },
+  {
+    "text": "stavím továrnu",
+    "intent": "question_id61",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10011452436447144
+    }
+  },
+  {
+    "text": "postavení malé kompostárny",
+    "intent": "question_id62",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10011548548936844
+    }
+  },
+  {
+    "text": "objekt pro rozložitelný odpad",
+    "intent": "question_id62",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10027582943439484
+    }
+  },
+  {
+    "text": "stavět skládku",
+    "intent": "question_id63",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10027915984392166
+    }
+  },
+  {
+    "text": "rozhodnutí o stavbě",
+    "intent": "question_id64",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10029418766498566
+    }
+  },
+  {
+    "text": "potvrzení o umístění stavby",
+    "intent": "question_id64",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10021070390939713
+    }
+  },
+  {
+    "text": "upravit územní rozhodnutí",
+    "intent": "question_id65",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10022315382957458
+    }
+  },
+  {
+    "text": "změnit rozhodnutí u umístění domu",
+    "intent": "question_id65",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.1001352071762085
+    }
+  },
+  {
+    "text": "žádám o vydání spojeného územního a stavebního povolení",
+    "intent": "question_id66",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.1000789925456047
+    }
+  },
+  {
+    "text": "stavba domu do 150 m2",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10011018812656403
+    }
+  },
+  {
+    "text": "Stavím kanalizační, vodovodní nebo elektrickou přípojku delší než 50 metrů",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.1004328802227974
+    }
+  },
+  {
+    "text": "nutnost stavebního povolení",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10035447031259537
+    }
+  },
+  {
+    "text": "žádám stavební povolení",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10036679357290268
+    }
+  },
+  {
+    "text": "zvětšuji dům co má více než 150 m2",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10009479522705078
+    }
+  },
+  {
+    "text": "stavba s certifikátem autorizovaného inspektora",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10034260153770447
+    }
+  },
+  {
+    "text": "stavit s autorizovaným inspektorem",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.1004118025302887
+    }
+  },
+  {
+    "text": "nutnost kolaudace stavby",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10022738575935364
+    }
+  },
+  {
+    "text": "jak požádat o kolaudační rozhodnutí",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10017375648021698
+    }
+  },
+  {
+    "text": "povolení užívat dům bez kolaudace",
+    "intent": "question_id71",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.1001526266336441
+    }
+  },
+  {
+    "text": "bydlet v nezkolaudovaném domě",
+    "intent": "question_id71",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10012946277856827
+    }
+  },
+  {
+    "text": "zbourat dům",
+    "intent": "question_id72",
+    "intent_prediction": {
+      "name": "question_id65",
+      "confidence": 0.10010692477226257
+    }
+  },
+  {
+    "text": "hlášení změnit stavby před dokončením",
+    "intent": "question_id73",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10013781487941742
+    }
+  },
+  {
+    "text": "upravit rozestavěnou stavbu",
+    "intent": "question_id73",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10043419897556305
+    }
+  },
+  {
+    "text": "mapa udržování silnic v zimě",
+    "intent": "question_id74",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10043499618768692
+    }
+  },
+  {
+    "text": "zjistit sjízdnost silnic v zimě",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10049295425415039
+    }
+  },
+  {
+    "text": "kdo v zimě vyhlašuje kalamitu",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id74",
+      "confidence": 0.10043332725763321
+    }
+  },
+  {
+    "text": "odstranění sněhu v jednom pruhu",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10047689825296402
+    }
+  },
+  {
+    "text": "kdy se zúčastnit vítání občánků",
+    "intent": "question_id76",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10028582811355591
+    }
+  },
+  {
+    "text": "jak uspořádat demonstraci",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10059457272291183
+    }
+  },
+  {
+    "text": "veřejně kázat shromáždit se",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.1003655344247818
+    }
+  },
+  {
+    "text": "hlásit průvod nebo demonstraci",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10030221939086914
+    }
+  },
+  {
+    "text": "sejít se shromáždit na veřejnosti",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.1003178060054779
+    }
+  },
+  {
+    "text": "zachránil život jak ocenit",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10033655911684036
+    }
+  },
+  {
+    "text": "ocenění města za reprezentaci na soutěži",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10050547122955322
+    }
+  },
+  {
+    "text": "kde získám souhlas pro použití logotypu, nebo znaku obce",
+    "intent": "question_id79",
+    "intent_prediction": {
+      "name": "question_id62",
+      "confidence": 0.10014604032039642
+    }
+  },
+  {
+    "text": "zakoupit právnickou osobu při žádosti o dotaci",
+    "intent": "question_id80",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.1002335473895073
+    }
+  },
+  {
+    "text": "kde žádat o dotaci",
+    "intent": "question_id80",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10026222467422485
+    }
+  },
+  {
+    "text": "přihlásit k místnímu poplatku za psa",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10061217099428177
+    }
+  },
+  {
+    "text": "jak platit za fenku",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1006200909614563
+    }
+  },
+  {
+    "text": "zaplacení za dva psy",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10039953142404556
+    }
+  },
+  {
+    "text": "zaplatit za psa",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10022129118442535
+    }
+  },
+  {
+    "text": "chcípnul mi pes",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id27",
+      "confidence": 0.10022017359733582
+    }
+  },
+  {
+    "text": "změnit adresu psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10034167766571045
+    }
+  },
+  {
+    "text": "pes není v domě, pes je v bytě",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10025393217802048
+    }
+  },
+  {
+    "text": "daruji psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10060657560825348
+    }
+  },
+  {
+    "text": "vrácení peněz za psa",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id6",
+      "confidence": 0.1004091277718544
+    }
+  },
+  {
+    "text": "slevit psa kvůli důchodu",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10061712563037872
+    }
+  },
+  {
+    "text": "cena psa pro důchodce",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10063853114843369
+    }
+  },
+  {
+    "text": "provozování penzionu",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10036943852901459
+    }
+  },
+  {
+    "text": "provozovat penzion",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.1003766655921936
+    }
+  },
+  {
+    "text": "platit za ubytování hostů",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10056327283382416
+    }
+  },
+  {
+    "text": "platit za ubytování klientů",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1004585325717926
+    }
+  },
+  {
+    "text": "poplatek za ubytování turistů",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id27",
+      "confidence": 0.10022546350955963
+    }
+  },
+  {
+    "text": "vyúčtovat místní poplatek z ubytovací kapacity",
+    "intent": "question_id5",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10028474777936935
+    }
+  },
+  {
+    "text": "jak vyúčtovat příjmy za ubytování",
+    "intent": "question_id5",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10056854039430618
+    }
+  },
+  {
+    "text": "kde vezmu novou popelnici",
+    "intent": "question_id6",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10061956197023392
+    }
+  },
+  {
+    "text": "přihlášení k placení směsného odpadu",
+    "intent": "question_id6",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10063326358795166
+    }
+  },
+  {
+    "text": "co s přeplatkem za komunální odpad",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10019909590482712
+    }
+  },
+  {
+    "text": "vrácení peněz za popelnice",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id6",
+      "confidence": 0.10046692192554474
+    }
+  },
+  {
+    "text": "osvobodit se od placení za popelnice",
+    "intent": "question_id8",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10021036118268967
+    }
+  },
+  {
+    "text": "snížení ceny za placení komunálního odpadu",
+    "intent": "question_id8",
+    "intent_prediction": {
+      "name": "question_id6",
+      "confidence": 0.10031306743621826
+    }
+  },
+  {
+    "text": "nutnost odvozu odpadu na chatě",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10039235651493073
+    }
+  },
+  {
+    "text": "musí dítě platit poplatek za popelnici",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1005731001496315
+    }
+  },
+  {
+    "text": "pronájem nádoby na třídění odpadu",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1003200113773346
+    }
+  },
+  {
+    "text": "kde popelnice na bioodpad",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10058887302875519
+    }
+  },
+  {
+    "text": "třídění odpadu zdarma",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1005614697933197
+    }
+  },
+  {
+    "text": "nádoby na tříděný odpad",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10061153024435043
+    }
+  },
+  {
+    "text": "dočasně pronajmout veřejný prostor",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10061143338680267
+    }
+  },
+  {
+    "text": "dočasně užívat veřejné prostranství",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10053403675556183
+    }
+  },
+  {
+    "text": "výkopové práce na veřejném prostranství",
+    "intent": "question_id12",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10035556554794312
+    }
+  },
+  {
+    "text": "zřízení elektrické přípojky",
+    "intent": "question_id12",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1004137471318245
+    }
+  },
+  {
+    "text": "místo pro novou reklamu",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10056478530168533
+    }
+  },
+  {
+    "text": "umístění reklamního zařízení",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10038471221923828
+    }
+  },
+  {
+    "text": "umístit stavební zařízení",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10037253051996231
+    }
+  },
+  {
+    "text": "kam složit stavební materiál",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10062303394079208
+    }
+  },
+  {
+    "text": "koupit nové auto",
+    "intent": "question_id14",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10057631134986877
+    }
+  },
+  {
+    "text": "přepsat auto na syna",
+    "intent": "question_id15",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10036702454090118
+    }
+  },
+  {
+    "text": "převod auta",
+    "intent": "question_id15",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10025103390216827
+    }
+  },
+  {
+    "text": "ztráta cestovního pasu",
+    "intent": "question_id16",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10050167888402939
+    }
+  },
+  {
+    "text": "ztratit občanku",
+    "intent": "question_id17",
+    "intent_prediction": {
+      "name": "question_id6",
+      "confidence": 0.10029904544353485
+    }
+  },
+  {
+    "text": "odcizení občanského průkazu",
+    "intent": "question_id17",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10024826228618622
+    }
+  },
+  {
+    "text": "povolit chytat ryby",
+    "intent": "question_id18",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10063738375902176
+    }
+  },
+  {
+    "text": "kde sčítat zvířata v honitbě",
+    "intent": "question_id19",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10039499402046204
+    }
+  },
+  {
+    "text": "evidovat počty zvěře",
+    "intent": "question_id19",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.09126237779855728
+    }
+  },
+  {
+    "text": "plánuji chovat srnce",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10026956349611282
+    }
+  },
+  {
+    "text": "formulář pro lovení prasat v honitbě",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10040118545293808
+    }
+  },
+  {
+    "text": "lovit chovat křepelky v honitbě",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10027546435594559
+    }
+  },
+  {
+    "text": "plán chovu lovu koroptví",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10056597739458084
+    }
+  },
+  {
+    "text": "zapsat údaje o husách a kachnách",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1002393290400505
+    }
+  },
+  {
+    "text": "chovat a lovit ostatní zvěř formulář",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10042635351419449
+    }
+  },
+  {
+    "text": "lejstro pro lov škodné",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10057763010263443
+    }
+  },
+  {
+    "text": "pečovat o zvířata v honitbě",
+    "intent": "question_id23",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10029026120901108
+    }
+  },
+  {
+    "text": "zvěř v honitbě trpí hladem",
+    "intent": "question_id23",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10046044737100601
+    }
+  },
+  {
+    "text": "ohlásit společný lov zvěře",
+    "intent": "question_id24",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10051139444112778
+    }
+  },
+  {
+    "text": "koupil nového loveckého psa",
+    "intent": "question_id25",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10027146339416504
+    }
+  },
+  {
+    "text": "zápis kolik je loveckých psů",
+    "intent": "question_id25",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10034329444169998
+    }
+  },
+  {
+    "text": "výkaz plnění plánu pro myslivce",
+    "intent": "question_id26",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10032393783330917
+    }
+  },
+  {
+    "text": "měsíční hlášení pro myslivce",
+    "intent": "question_id26",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10049155354499817
+    }
+  },
+  {
+    "text": "prodloužení nájmu bytu",
+    "intent": "question_id27",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10060931742191315
+    }
+  },
+  {
+    "text": "pronajmout byt",
+    "intent": "question_id28",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10037796199321747
+    }
+  },
+  {
+    "text": "žádám o obecní byt",
+    "intent": "question_id28",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10024945437908173
+    }
+  },
+  {
+    "text": "výměna najatého bytu",
+    "intent": "question_id29",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10023829340934753
+    }
+  },
+  {
+    "text": "vyměnit najatý byt",
+    "intent": "question_id29",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10058113187551498
+    }
+  },
+  {
+    "text": "žádost pronajmout les patřící obci",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10051596164703369
+    }
+  },
+  {
+    "text": "pachtovné obecní nemovitosti",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1005978062748909
+    }
+  },
+  {
+    "text": "poptávka nemovitosti města",
+    "intent": "question_id31",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10062643885612488
+    }
+  },
+  {
+    "text": "přepsat nemovitost na potomka",
+    "intent": "question_id32",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1005413755774498
+    }
+  },
+  {
+    "text": "nechci vídat potomka a rodiče",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10031819343566895
+    }
+  },
+  {
+    "text": "úprava styku s nezletilým",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id2",
+      "confidence": 0.10023979842662811
+    }
+  },
+  {
+    "text": "nedohodl stýkání dítěte s ženou",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10026698559522629
+    }
+  },
+  {
+    "text": "starání se o děti po rozvodu",
+    "intent": "question_id35",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10031143575906754
+    }
+  },
+  {
+    "text": "porozvodové a předrozvodové řízení o péči a výživném",
+    "intent": "question_id36",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10029944032430649
+    }
+  },
+  {
+    "text": "opatrovník před a po rozvodu",
+    "intent": "question_id36",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10059970617294312
+    }
+  },
+  {
+    "text": "kdo má dítě v péči",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10057111829519272
+    }
+  },
+  {
+    "text": "kdo bude platit přídavky",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10027331858873367
+    }
+  },
+  {
+    "text": "určí péči a výživu",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10036899894475937
+    }
+  },
+  {
+    "text": "návrh zvýšení výživného",
+    "intent": "question_id38",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1005001962184906
+    }
+  },
+  {
+    "text": "žádost o průkaz těžce zdravotně postiženého",
+    "intent": "question_id39",
+    "intent_prediction": {
+      "name": "question_id2",
+      "confidence": 0.10024069249629974
+    }
+  },
+  {
+    "text": "žádání o invalidní důchod",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10060447454452515
+    }
+  },
+  {
+    "text": "žádám o ustanovení zvláštního příjemce dávky důchodového pojištění",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10051148384809494
+    }
+  },
+  {
+    "text": "žádost o ZS paragraf 14",
+    "intent": "question_id41",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10024668276309967
+    }
+  },
+  {
+    "text": "stanovisko obce věc v památkové oblasti",
+    "intent": "question_id42",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10043404996395111
+    }
+  },
+  {
+    "text": "obnovit kulturní památku v památkové zóně města dotace",
+    "intent": "question_id43",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10048665851354599
+    }
+  },
+  {
+    "text": "dotace od ORP v rámci regenerace památek",
+    "intent": "question_id44",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10035764425992966
+    }
+  },
+  {
+    "text": "přispívá na opravu památky město s rozšířenou působností",
+    "intent": "question_id44",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10025329142808914
+    }
+  },
+  {
+    "text": "mapa oblast památek ve městě",
+    "intent": "question_id45",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10062408447265625
+    }
+  },
+  {
+    "text": "revitalizovat objekt v památkové zóně",
+    "intent": "question_id46",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10034382343292236
+    }
+  },
+  {
+    "text": "ohlášení poškození kulturní památky",
+    "intent": "question_id47",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10030736774206161
+    }
+  },
+  {
+    "text": "velká voda a oheň ohrožuje památku",
+    "intent": "question_id47",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10049664974212646
+    }
+  },
+  {
+    "text": "rekonstruovat pietní místo",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.1003049686551094
+    }
+  },
+  {
+    "text": "dotuje revitalizaci pomníku",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10059595853090286
+    }
+  },
+  {
+    "text": "žádost o obnovu pomníku",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10027413070201874
+    }
+  },
+  {
+    "text": "dotace na objekt v rezervaci",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1005702093243599
+    }
+  },
+  {
+    "text": "dotace na rekonstruování objektu v památkové zóně",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10033494234085083
+    }
+  },
+  {
+    "text": "žádost o restaurování",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10027175396680832
+    }
+  },
+  {
+    "text": "realizovat restaurování kulturní památky",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10035566240549088
+    }
+  },
+  {
+    "text": "modernizace objektu v památkové zóně",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10034888237714767
+    }
+  },
+  {
+    "text": "opravit nemovité památky",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10028595477342606
+    }
+  },
+  {
+    "text": "kam házet starou elektroniku",
+    "intent": "question_id52",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1006264016032219
+    }
+  },
+  {
+    "text": "vyhazování spořivek a zářivek",
+    "intent": "question_id52",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10048416256904602
+    }
+  },
+  {
+    "text": "oznámení kácení",
+    "intent": "question_id53",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10031455010175705
+    }
+  },
+  {
+    "text": "nahlásit pokácení stromu",
+    "intent": "question_id53",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10030166804790497
+    }
+  },
+  {
+    "text": "obecné informace jak těžit dřevo",
+    "intent": "question_id54",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10044201463460922
+    }
+  },
+  {
+    "text": "odnětí pozemku ze ZPF",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10038135945796967
+    }
+  },
+  {
+    "text": "odnětí pozemku ze zemědělského fondu",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10062996298074722
+    }
+  },
+  {
+    "text": "žádost odnětí ze zemědělského půdního fondu",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1003771647810936
+    }
+  },
+  {
+    "text": "jak třídit odpad",
+    "intent": "question_id56",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10029608756303787
+    }
+  },
+  {
+    "text": "informace o třídění odpadu",
+    "intent": "question_id56",
+    "intent_prediction": {
+      "name": "question_id2",
+      "confidence": 0.10024073719978333
+    }
+  },
+  {
+    "text": "výkop u VKP",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.100364089012146
+    }
+  },
+  {
+    "text": "vykopat u VKP",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id2",
+      "confidence": 0.10023930668830872
+    }
+  },
+  {
+    "text": "zpětný odběr počítače, monitoru",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10042346268892288
+    }
+  },
+  {
+    "text": "odebrat zpět počítač, monitor",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10061975568532944
+    }
+  },
+  {
+    "text": "zrušit oddělené shromažďování odpadů",
+    "intent": "question_id59",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10061285644769669
+    }
+  },
+  {
+    "text": "souhlas k netřídění odpadků",
+    "intent": "question_id59",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10052486509084702
+    }
+  },
+  {
+    "text": "žádost aby se odbor územního řízení vyjádřil",
+    "intent": "question_id60",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.1002807542681694
+    }
+  },
+  {
+    "text": "budu znečišťovat ovzduší",
+    "intent": "question_id61",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10063732415437698
+    }
+  },
+  {
+    "text": "zřídit stacionární zdroj znečištění vzduchu",
+    "intent": "question_id61",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10050351172685623
+    }
+  },
+  {
+    "text": "zřídit bio rozložitelnou skládku",
+    "intent": "question_id62",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10063798725605011
+    }
+  },
+  {
+    "text": "přemístění budovy s odpady",
+    "intent": "question_id63",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10033298283815384
+    }
+  },
+  {
+    "text": "změna adresy skládky",
+    "intent": "question_id63",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10052427649497986
+    }
+  },
+  {
+    "text": "potvrdit umístění stavby",
+    "intent": "question_id64",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10037783533334732
+    }
+  },
+  {
+    "text": "vyjádřit se k umístění domu",
+    "intent": "question_id64",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10037750005722046
+    }
+  },
+  {
+    "text": "úprava územního rozhodnutí",
+    "intent": "question_id65",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10041527450084686
+    }
+  },
+  {
+    "text": "spojení územní a stavební povolení",
+    "intent": "question_id66",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10025892406702042
+    }
+  },
+  {
+    "text": "stačí ohlášení stavby",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10035534203052521
+    }
+  },
+  {
+    "text": "povolení postavit pro domek garáž",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10029884427785873
+    }
+  },
+  {
+    "text": "je nutné povolení stavím garáž menší než 25 m2",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10027844458818436
+    }
+  },
+  {
+    "text": "stavím dům o ploše větší než 150 m2 potřeba stavební povolení",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.1003282442688942
+    }
+  },
+  {
+    "text": "postavit dům chalupu",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10034558922052383
+    }
+  },
+  {
+    "text": "stavba s autorizovaným inspektorem",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10038115829229355
+    }
+  },
+  {
+    "text": "stavba technicky náročného domu",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10039478540420532
+    }
+  },
+  {
+    "text": "chybí kolaudační souhlas",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10033660382032394
+    }
+  },
+  {
+    "text": "zhotovil stavbu žádám o schválení",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10027602314949036
+    }
+  },
+  {
+    "text": "kde žádat o schválení stavby domu",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.1003316193819046
+    }
+  },
+  {
+    "text": "dům bez kolaudace žádost o předčasné užívání",
+    "intent": "question_id71",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10024894028902054
+    }
+  },
+  {
+    "text": "bydlení když není kolaudace",
+    "intent": "question_id71",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10034387558698654
+    }
+  },
+  {
+    "text": "zbourání staré chalupy",
+    "intent": "question_id72",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10048914700746536
+    }
+  },
+  {
+    "text": "změna stavby nedokončeného domu",
+    "intent": "question_id73",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10036156326532364
+    }
+  },
+  {
+    "text": "nehotová stavba změnit",
+    "intent": "question_id73",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10037942230701447
+    }
+  },
+  {
+    "text": "kde se dělá zimní údržba",
+    "intent": "question_id74",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.1002635806798935
+    }
+  },
+  {
+    "text": "zajištění zimní údržby silnic",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10062509775161743
+    }
+  },
+  {
+    "text": "sypání chodníků a silnic",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1004791408777237
+    }
+  },
+  {
+    "text": "jak se přihlásit na vítání občánků",
+    "intent": "question_id76",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10036720335483551
+    }
+  },
+  {
+    "text": "kdy je vítání občánků",
+    "intent": "question_id76",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10035760700702667
+    }
+  },
+  {
+    "text": "uskutečnění průvodu",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10037094354629517
+    }
+  },
+  {
+    "text": "uspořádat veřejné kázání",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10038010030984879
+    }
+  },
+  {
+    "text": "kdy svolat veřejné shromáždění, nebo kázání",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.1003309115767479
+    }
+  },
+  {
+    "text": "kolik lidí na veřejném shromáždění",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10032377392053604
+    }
+  },
+  {
+    "text": "kandidát na udělení ceny města",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.1004839614033699
+    }
+  },
+  {
+    "text": "udělovat cenu města kandidát",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id76",
+      "confidence": 0.10029996186494827
+    }
+  },
+  {
+    "text": "nakreslit znak města",
+    "intent": "question_id79",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.10037459433078766
+    }
+  },
+  {
+    "text": "zastoupení právnické osoby při žádosti o dotaci",
+    "intent": "question_id80",
+    "intent_prediction": {
+      "name": "question_id18",
+      "confidence": 0.1002974882721901
+    }
+  },
+  {
+    "text": "má nová štěňátka",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10032250732183456
+    }
+  },
+  {
+    "text": "cena poplatku za psa",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10037091374397278
+    }
+  },
+  {
+    "text": "přihlášení k místnímu poplatku za psa",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10034383088350296
+    }
+  },
+  {
+    "text": "zemřela mi fenka",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10030656307935715
+    }
+  },
+  {
+    "text": "přestěhovat se psem",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10027119517326355
+    }
+  },
+  {
+    "text": "odhlásit poplatek za psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.1003044918179512
+    }
+  },
+  {
+    "text": "darování psa",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10019436478614807
+    }
+  },
+  {
+    "text": "kdy se vrací přeplatek za psa",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10033280402421951
+    }
+  },
+  {
+    "text": "nemám peníze za odhlášeného psa",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10034924000501633
+    }
+  },
+  {
+    "text": "slevit psa pro invalidní důchodce",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10032958537340164
+    }
+  },
+  {
+    "text": "v důchodu a mám psa",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10034430772066116
+    }
+  },
+  {
+    "text": "nahlásit že provozuji penzion",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10048531740903854
+    }
+  },
+  {
+    "text": "co je potřeba při přihlášení platby za hotel",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10024301707744598
+    }
+  },
+  {
+    "text": "poplatek za ubytování klientů",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10022596269845963
+    }
+  },
+  {
+    "text": "sazba za ubytování lidí",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10033541172742844
+    }
+  },
+  {
+    "text": "kolik platit městu za ubytování hostů",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10034649819135666
+    }
+  },
+  {
+    "text": "hlásit výběr poplatků z ubytování",
+    "intent": "question_id5",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10033538192510605
+    }
+  },
+  {
+    "text": "kdy provést vyúčtování za ubytování",
+    "intent": "question_id5",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10034944117069244
+    }
+  },
+  {
+    "text": "jak získat popelnice",
+    "intent": "question_id6",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.1003393903374672
+    }
+  },
+  {
+    "text": "peníze za popelnici nazpátek",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10068889707326889
+    }
+  },
+  {
+    "text": "žádám o vrácení přeplatku za popelnici",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10035638511180878
+    }
+  },
+  {
+    "text": "jak žádat o vrácení přeplatku za popelnici",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10023853927850723
+    }
+  },
+  {
+    "text": "kdo nemusí platit za popelnici",
+    "intent": "question_id8",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10025743395090103
+    }
+  },
+  {
+    "text": "popelnice na chatě",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10032209008932114
+    }
+  },
+  {
+    "text": "sleva na poplatek za popelnici na dítě",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.1002410426735878
+    }
+  },
+  {
+    "text": "pronajmout nádobu na třídění odpadu",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.100266233086586
+    }
+  },
+  {
+    "text": "kde popelnice na plast",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10032279789447784
+    }
+  },
+  {
+    "text": "získání popelnice na tříděný odpad",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10030729323625565
+    }
+  },
+  {
+    "text": "třídění odpadu ve městě",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10026838630437851
+    }
+  },
+  {
+    "text": "jak třídit bio bordel",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10034137219190598
+    }
+  },
+  {
+    "text": "zvláštně užívat prostranství",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10054848343133926
+    }
+  },
+  {
+    "text": "zabrat",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10023792833089828
+    }
+  },
+  {
+    "text": "úprava vjezdu do domu",
+    "intent": "question_id12",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10033224523067474
+    }
+  },
+  {
+    "text": "upravit vjezd do domu",
+    "intent": "question_id12",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10027915239334106
+    }
+  },
+  {
+    "text": "přijet s cirkusem",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10041546076536179
+    }
+  },
+  {
+    "text": "koupě nového auta",
+    "intent": "question_id14",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10026858747005463
+    }
+  },
+  {
+    "text": "registrovat vozidlo",
+    "intent": "question_id14",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10026506334543228
+    }
+  },
+  {
+    "text": "změnit vlastníka automobilu",
+    "intent": "question_id15",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10030097514390945
+    }
+  },
+  {
+    "text": "přepis auta na syna",
+    "intent": "question_id15",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10031736642122269
+    }
+  },
+  {
+    "text": "vystavit nový pas",
+    "intent": "question_id16",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.100187748670578
+    }
+  },
+  {
+    "text": "nová občanka",
+    "intent": "question_id17",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10027480870485306
+    }
+  },
+  {
+    "text": "půjdu na ryby nemám lístek",
+    "intent": "question_id18",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.1003270223736763
+    }
+  },
+  {
+    "text": "povolení k chytání ryb",
+    "intent": "question_id18",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10031482577323914
+    }
+  },
+  {
+    "text": "výpis počtu zvířat",
+    "intent": "question_id19",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10034292936325073
+    }
+  },
+  {
+    "text": "formulář s plánem hospodaření v honitbě pro srstnatou zvěř",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10022254288196564
+    }
+  },
+  {
+    "text": "plánovat hospodařit v honitbě se spárkatou zvěří",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10022423416376114
+    }
+  },
+  {
+    "text": "formulář pro jeleny",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10033182799816132
+    }
+  },
+  {
+    "text": "formulář pro drobnou zvěř",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10035169124603271
+    }
+  },
+  {
+    "text": "plánuji lovit zajíce v honitbě",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10024982690811157
+    }
+  },
+  {
+    "text": "lovit chovat bažanty a krocany",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.100283183157444
+    }
+  },
+  {
+    "text": "formulář po lovu kuny",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10025732964277267
+    }
+  },
+  {
+    "text": "ulovil kunu formulář",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10020922869443893
+    }
+  },
+  {
+    "text": "formulář pro chování zvířat v honitbě",
+    "intent": "question_id23",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10036391764879227
+    }
+  },
+  {
+    "text": "chovat zvířata v honitbě formulář",
+    "intent": "question_id23",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.1002151146531105
+    }
+  },
+  {
+    "text": "ohlášení společného lovu zvěře",
+    "intent": "question_id24",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10023604333400726
+    }
+  },
+  {
+    "text": "evidovat loveckého psa",
+    "intent": "question_id25",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10046637803316116
+    }
+  },
+  {
+    "text": "koupit psa na lov",
+    "intent": "question_id25",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10030335187911987
+    }
+  },
+  {
+    "text": "nahlášení měsíčního plánu myslivců",
+    "intent": "question_id26",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10025622695684433
+    }
+  },
+  {
+    "text": "vykazovat plnění plánu pro myslivce",
+    "intent": "question_id26",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10065801441669464
+    }
+  },
+  {
+    "text": "prodloužení smlouvy o nájmu bytu",
+    "intent": "question_id27",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10031352937221527
+    }
+  },
+  {
+    "text": "bydlení pro bezdomovce",
+    "intent": "question_id28",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10035927593708038
+    }
+  },
+  {
+    "text": "žádost o obecní byt",
+    "intent": "question_id28",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10025426000356674
+    }
+  },
+  {
+    "text": "vyměnit obecní byt",
+    "intent": "question_id29",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10031723976135254
+    }
+  },
+  {
+    "text": "nájem veřejné nemovitosti",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10031337291002274
+    }
+  },
+  {
+    "text": "pronajmutí pozemku ve vlastnictví obce",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10026455670595169
+    }
+  },
+  {
+    "text": "koupě nemovitosti od města",
+    "intent": "question_id31",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10029064118862152
+    }
+  },
+  {
+    "text": "odkoupím kus veřejného pozemku",
+    "intent": "question_id31",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.1002638041973114
+    }
+  },
+  {
+    "text": "formulář pro přepis vlastníka nemovitosti",
+    "intent": "question_id32",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10022597759962082
+    }
+  },
+  {
+    "text": "trávení více času se synem",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10021989047527313
+    }
+  },
+  {
+    "text": "pouštět dítě k rodiči",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10025645047426224
+    }
+  },
+  {
+    "text": "placení přídavků po rozvodu",
+    "intent": "question_id35",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10030527412891388
+    }
+  },
+  {
+    "text": "porozvodové řízení o péči a výživném",
+    "intent": "question_id35",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10032117366790771
+    }
+  },
+  {
+    "text": "platit přídavky před a po rozvodu",
+    "intent": "question_id36",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10023797303438187
+    }
+  },
+  {
+    "text": "opatrovat děti před a po rozvodu",
+    "intent": "question_id36",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10025602579116821
+    }
+  },
+  {
+    "text": "určí plátce výživného",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.1002350002527237
+    }
+  },
+  {
+    "text": "převod dítěte do opatrovnictví",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10021267086267471
+    }
+  },
+  {
+    "text": "manžel platil více na děti",
+    "intent": "question_id38",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10029222071170807
+    }
+  },
+  {
+    "text": "jízda automobilem zdravotně postiženého",
+    "intent": "question_id39",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10027443617582321
+    }
+  },
+  {
+    "text": "jezdím automobilem zdravotně postiženého",
+    "intent": "question_id39",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10025474429130554
+    }
+  },
+  {
+    "text": "žádám o přidělení zvláštního důchodu",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10025181621313095
+    }
+  },
+  {
+    "text": "kde žádat k zvláštní dávky důchodu",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10032131522893906
+    }
+  },
+  {
+    "text": "žádám o ZS paragrafu 14",
+    "intent": "question_id41",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10031548142433167
+    }
+  },
+  {
+    "text": "žádám o závazné stanovisko pro nepamátku",
+    "intent": "question_id42",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10028611123561859
+    }
+  },
+  {
+    "text": "příspěvek na opravu památky města",
+    "intent": "question_id43",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10023190826177597
+    }
+  },
+  {
+    "text": "ORP dotuje obnovu kulturní památky",
+    "intent": "question_id44",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10034418106079102
+    }
+  },
+  {
+    "text": "obnovit kulturní památky v památkové zóně dotace ORP",
+    "intent": "question_id44",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10021672397851944
+    }
+  },
+  {
+    "text": "zobrazit památky ve městě",
+    "intent": "question_id45",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10028687119483948
+    }
+  },
+  {
+    "text": "rekonstrukce památkové zóny",
+    "intent": "question_id46",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10034734755754471
+    }
+  },
+  {
+    "text": "ohrožuje nebo poškozuje památku obce",
+    "intent": "question_id47",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.1002945750951767
+    }
+  },
+  {
+    "text": "zničil kulturní památku",
+    "intent": "question_id47",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10033939778804779
+    }
+  },
+  {
+    "text": "obnovit pomník",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10025908797979355
+    }
+  },
+  {
+    "text": "obnovit pamětní desku v oblasti",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10029838979244232
+    }
+  },
+  {
+    "text": "příspěvek na obnovu ne-památky ve městě",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10027233511209488
+    }
+  },
+  {
+    "text": "dotovat rekonstrukci ne-památky",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10033875703811646
+    }
+  },
+  {
+    "text": "dotovat objekt v rezervaci",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10032007843255997
+    }
+  },
+  {
+    "text": "restaurování památky",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10023009777069092
+    }
+  },
+  {
+    "text": "ohlásit restaurování nepamátky",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10029220581054688
+    }
+  },
+  {
+    "text": "oprava nemovité památky",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10026904195547104
+    }
+  },
+  {
+    "text": "přestavba objektu v památkové oblasti",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10052431374788284
+    }
+  },
+  {
+    "text": "co s červeným kontejnerem",
+    "intent": "question_id52",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10026594996452332
+    }
+  },
+  {
+    "text": "popelnice na elektroodpad",
+    "intent": "question_id52",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10024828463792801
+    }
+  },
+  {
+    "text": "kácet strom",
+    "intent": "question_id53",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10024834424257278
+    }
+  },
+  {
+    "text": "povolit kácení dřevin",
+    "intent": "question_id53",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10031390935182571
+    }
+  },
+  {
+    "text": "jak na zalesnění pozemku",
+    "intent": "question_id54",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10027384757995605
+    }
+  },
+  {
+    "text": "odstranit ze zemědělského půdního fondu",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10026425123214722
+    }
+  },
+  {
+    "text": "žádost o odnětí ZPF",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10021500289440155
+    }
+  },
+  {
+    "text": "odejmout půdu ze ZPF",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10033556818962097
+    }
+  },
+  {
+    "text": "stanoviště kontejnerů",
+    "intent": "question_id56",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10033030807971954
+    }
+  },
+  {
+    "text": "zásah do významného krajinného prvku",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10026120394468307
+    }
+  },
+  {
+    "text": "zasáhnout do významného krajinného prvku",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10034894943237305
+    }
+  },
+  {
+    "text": "práce u chráněného prvku krajiny",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10028066486120224
+    }
+  },
+  {
+    "text": "zpětný odběr elektroniky",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.10025345534086227
+    }
+  },
+  {
+    "text": "odběr použité elektroniky",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10024721175432205
+    }
+  },
+  {
+    "text": "nechci třídit odpad",
+    "intent": "question_id59",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10023123770952225
+    }
+  },
+  {
+    "text": "souhrnné vyjádření odboru stavební řízení",
+    "intent": "question_id60",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10040052235126495
+    }
+  },
+  {
+    "text": "žádost odboru vyjádřit se o vydání kolaudace",
+    "intent": "question_id60",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10037670284509659
+    }
+  },
+  {
+    "text": "nový zdroj znečištění vzduchu",
+    "intent": "question_id61",
+    "intent_prediction": {
+      "name": "question_id75",
+      "confidence": 0.1002679392695427
+    }
+  },
+  {
+    "text": "budovat novou skládku na bio odpad",
+    "intent": "question_id62",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10034795105457306
+    }
+  },
+  {
+    "text": "zřízení bio rozložitelné skládky",
+    "intent": "question_id62",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10027105361223221
+    }
+  },
+  {
+    "text": "žádost o stanovisko nakládání s odpady",
+    "intent": "question_id63",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10025545954704285
+    }
+  },
+  {
+    "text": "změnit adresu skládky",
+    "intent": "question_id63",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.1002182811498642
+    }
+  },
+  {
+    "text": "rozhodnout o stavbě",
+    "intent": "question_id64",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10073477774858475
+    }
+  },
+  {
+    "text": "vyjádření k umístění domu",
+    "intent": "question_id64",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10062006115913391
+    }
+  },
+  {
+    "text": "změnit územní rozhodnutí o stavbě",
+    "intent": "question_id65",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10050445050001144
+    }
+  },
+  {
+    "text": "spojit územní a stavební  povolení",
+    "intent": "question_id66",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10036592185497284
+    }
+  },
+  {
+    "text": "stavět dům do 150 m2",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10031642764806747
+    }
+  },
+  {
+    "text": "stavím kanalizační přípojku více jak 50 m",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10026881098747253
+    }
+  },
+  {
+    "text": "je nutné povolení pro dům 150 m2",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.1003560721874237
+    }
+  },
+  {
+    "text": "podání stavebního povolení",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10025828331708908
+    }
+  },
+  {
+    "text": "jak požádat o stavební povolení",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.1003299206495285
+    }
+  },
+  {
+    "text": "oznámení stavebního záměru s certifikátem autorizovaného inspektora",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10063032805919647
+    }
+  },
+  {
+    "text": "potřebuji autorizovaného inspektora",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10053269565105438
+    }
+  },
+  {
+    "text": "jak kolaudovat dům",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10067964345216751
+    }
+  },
+  {
+    "text": "je nutné kolaudovat",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10085014998912811
+    }
+  },
+  {
+    "text": "kde žádat o kolaudační rozhodnutí",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10036075860261917
+    }
+  },
+  {
+    "text": "bydlet ve stavbě bez kolaudace",
+    "intent": "question_id71",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10026666522026062
+    }
+  },
+  {
+    "text": "povolit užívat dům bez kolaudace",
+    "intent": "question_id71",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10031318664550781
+    }
+  },
+  {
+    "text": "hlásit zbourání domu",
+    "intent": "question_id72",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10055989027023315
+    }
+  },
+  {
+    "text": "změnit stavbu nedokončený dům",
+    "intent": "question_id73",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10036220401525497
+    }
+  },
+  {
+    "text": "úprava rozestavěné stavby",
+    "intent": "question_id73",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.1003778874874115
+    }
+  },
+  {
+    "text": "mapa zimní údržby",
+    "intent": "question_id74",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.10035181045532227
+    }
+  },
+  {
+    "text": "zajistit zimní údržbu",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10025307536125183
+    }
+  },
+  {
+    "text": "kdy v mé části obce vymetá sníh",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id60",
+      "confidence": 0.1002713292837143
+    }
+  },
+  {
+    "text": "přihláška na vítání občánků",
+    "intent": "question_id76",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10048238188028336
+    }
+  },
+  {
+    "text": "podělit se s veřejností o víru",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10050264745950699
+    }
+  },
+  {
+    "text": "ohlásit veřejné kázání nebo shromáždění",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.1003626361489296
+    }
+  },
+  {
+    "text": "hlášení průvodu nebo demonstrace",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10050663352012634
+    }
+  },
+  {
+    "text": "oznámení veřejně oslavovat",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10078081488609314
+    }
+  },
+  {
+    "text": "firma svolá průvod shromáždění kázání",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10032793134450912
+    }
+  },
+  {
+    "text": "ocenit reprezentovat město",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10032867640256882
+    }
+  },
+  {
+    "text": "použít logotyp nebo znak obce",
+    "intent": "question_id79",
+    "intent_prediction": {
+      "name": "question_id31",
+      "confidence": 0.10051431506872177
+    }
+  },
+  {
+    "text": "co potřebuji pro získání dotace",
+    "intent": "question_id80",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10027673840522766
+    }
+  },
+  {
+    "text": "jakou cenu má poplatek za psa",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10030683875083923
+    }
+  },
+  {
+    "text": "přihlásit psy",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.1002841517329216
+    }
+  },
+  {
+    "text": "přihlášení fenky",
+    "intent": "question_id0",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10035216063261032
+    }
+  },
+  {
+    "text": "vrátit peníze zemřelého psa žádost",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10039575397968292
+    }
+  },
+  {
+    "text": "žádost o vrácení peněz zemřelého psa",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10038785636425018
+    }
+  },
+  {
+    "text": "slevit psa pro důchodce",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10023651272058487
+    }
+  },
+  {
+    "text": "čestné prohlášení na důchod za psa",
+    "intent": "question_id3",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10039102286100388
+    }
+  },
+  {
+    "text": "přihlásit k poplatku za provozování ubytování",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10017400979995728
+    }
+  },
+  {
+    "text": "otevřít hotel",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10033091902732849
+    }
+  },
+  {
+    "text": "ohlásit živnost na hotel",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10022569447755814
+    }
+  },
+  {
+    "text": "platit za provoz ubytování",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10018070787191391
+    }
+  },
+  {
+    "text": "kolik vybírá úřad za provoz penzionu",
+    "intent": "question_id4",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10015887022018433
+    }
+  },
+  {
+    "text": "formulář vyúčtování místního poplatku z ubytovací kapacity",
+    "intent": "question_id5",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10033582895994186
+    }
+  },
+  {
+    "text": "přihlásit se k placení směsného odpadu",
+    "intent": "question_id6",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10016120970249176
+    }
+  },
+  {
+    "text": "formulář, kde platit za popelnici",
+    "intent": "question_id6",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10038867592811584
+    }
+  },
+  {
+    "text": "vrácení peněz za odpad",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id58",
+      "confidence": 0.10089372843503952
+    }
+  },
+  {
+    "text": "peníze za zrušení druhé popelnice",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id58",
+      "confidence": 0.10040764510631561
+    }
+  },
+  {
+    "text": "osvobození od placení za popelnice",
+    "intent": "question_id8",
+    "intent_prediction": {
+      "name": "question_id58",
+      "confidence": 0.1006489172577858
+    }
+  },
+  {
+    "text": "snížit cenu za placení komunálního odpadu",
+    "intent": "question_id8",
+    "intent_prediction": {
+      "name": "question_id58",
+      "confidence": 0.1003846749663353
+    }
+  },
+  {
+    "text": "osvobodit od placení za popelnici na chatě",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10027278959751129
+    }
+  },
+  {
+    "text": "jak neplatit za odvoz odpadu",
+    "intent": "question_id9",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10039125382900238
+    }
+  },
+  {
+    "text": "půjčení popelnice na bioodpad",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10029388964176178
+    }
+  },
+  {
+    "text": "získat popelnice na tříděný odpad",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10039125382900238
+    }
+  },
+  {
+    "text": "přihlásit do odvozného systému odpadů",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10015154629945755
+    }
+  },
+  {
+    "text": "formulář pro získání popelnice na plast",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10021508485078812
+    }
+  },
+  {
+    "text": "nárok na dostání popelnice na separovaný odpad",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10033829510211945
+    }
+  },
+  {
+    "text": "dočasně zabrat veřejné prostranství",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10030747950077057
+    }
+  },
+  {
+    "text": "dočasný pronájem veřejného prostoru",
+    "intent": "question_id11",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10025261342525482
+    }
+  },
+  {
+    "text": "připojit nové odběrové místo",
+    "intent": "question_id12",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10021452605724335
+    }
+  },
+  {
+    "text": "kam umístit reklamu",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10038553178310394
+    }
+  },
+  {
+    "text": "pořádat kulturní akci na veřejnosti",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10048714280128479
+    }
+  },
+  {
+    "text": "sportovní akce na veřejném prostranství",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.1006428524851799
+    }
+  },
+  {
+    "text": "příjezd s cirkusem",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10036766529083252
+    }
+  },
+  {
+    "text": "registrace vozidel",
+    "intent": "question_id14",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10012969374656677
+    }
+  },
+  {
+    "text": "kde evidovat motorové vozidlo",
+    "intent": "question_id14",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.1001390889286995
+    }
+  },
+  {
+    "text": "darovat automobil dceři",
+    "intent": "question_id15",
+    "intent_prediction": {
+      "name": "question_id14",
+      "confidence": 0.10011069476604462
+    }
+  },
+  {
+    "text": "přepsat vozidlo",
+    "intent": "question_id15",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.1002233624458313
+    }
+  },
+  {
+    "text": "udělat nový cestovní pas",
+    "intent": "question_id16",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10039461404085159
+    }
+  },
+  {
+    "text": "sháním nový občanský průkaz",
+    "intent": "question_id17",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10029919445514679
+    }
+  },
+  {
+    "text": "nový rybářský lístek",
+    "intent": "question_id18",
+    "intent_prediction": {
+      "name": "question_id58",
+      "confidence": 0.10027693957090378
+    }
+  },
+  {
+    "text": "lovení ryb",
+    "intent": "question_id18",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.1002289429306984
+    }
+  },
+  {
+    "text": "evidence počtů zvěře",
+    "intent": "question_id19",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.100179523229599
+    }
+  },
+  {
+    "text": "formulář pro spárkatou zvěř",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10038856416940689
+    }
+  },
+  {
+    "text": "plán chovu srnců",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10019313544034958
+    }
+  },
+  {
+    "text": "lovit hospodařit s vysokou zvěří",
+    "intent": "question_id20",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10012456774711609
+    }
+  },
+  {
+    "text": "lovit chovat drobná zvířata",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10018239170312881
+    }
+  },
+  {
+    "text": "formulář pro křepelky",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10028314590454102
+    }
+  },
+  {
+    "text": "plánuji chovat lovit koroptve",
+    "intent": "question_id21",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10016318410634995
+    }
+  },
+  {
+    "text": "formulář pro chov a lov ostatní zvěře",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10023491829633713
+    }
+  },
+  {
+    "text": "sepsat ulovenou ostatní zvěř",
+    "intent": "question_id22",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10031110793352127
+    }
+  },
+  {
+    "text": "starat se o zvířata v honitbě",
+    "intent": "question_id23",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10037761181592941
+    }
+  },
+  {
+    "text": "lovit s kolegy",
+    "intent": "question_id24",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10032571107149124
+    }
+  },
+  {
+    "text": "skupinový lov zvěře",
+    "intent": "question_id24",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10011971741914749
+    }
+  },
+  {
+    "text": "formulář počtu loveckých psů",
+    "intent": "question_id25",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10041065514087677
+    }
+  },
+  {
+    "text": "nový pes na lov v honitbě",
+    "intent": "question_id25",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10017720609903336
+    }
+  },
+  {
+    "text": "podat hlášení o plánu myslivosti",
+    "intent": "question_id26",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10054396837949753
+    }
+  },
+  {
+    "text": "žádost o prodloužení pronájmu bytu",
+    "intent": "question_id27",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10022193193435669
+    }
+  },
+  {
+    "text": "brzké vypršení nájemní smlouvy",
+    "intent": "question_id27",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10031938552856445
+    }
+  },
+  {
+    "text": "pronájem bytu",
+    "intent": "question_id28",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.1001838743686676
+    }
+  },
+  {
+    "text": "pronájem místa k bydlení",
+    "intent": "question_id28",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10012830793857574
+    }
+  },
+  {
+    "text": "výměna obecního bytu",
+    "intent": "question_id29",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10036786645650864
+    }
+  },
+  {
+    "text": "najmout veřejnou nemovitost",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10033037513494492
+    }
+  },
+  {
+    "text": "žádost o pronájem lesa patřící obci",
+    "intent": "question_id30",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10017291456460953
+    }
+  },
+  {
+    "text": "koupit nemovitost od města",
+    "intent": "question_id31",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10033664107322693
+    }
+  },
+  {
+    "text": "odkoupení kusu veřejného pozemku",
+    "intent": "question_id31",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10034172236919403
+    }
+  },
+  {
+    "text": "přepsání nemovitosti na potomka",
+    "intent": "question_id32",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10021624714136124
+    }
+  },
+  {
+    "text": "více vídání se svým dítětem",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10031186044216156
+    }
+  },
+  {
+    "text": "upravit styk s nezletilým",
+    "intent": "question_id34",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10051178932189941
+    }
+  },
+  {
+    "text": "určení péče a výživy po rozvodu rodičů",
+    "intent": "question_id35",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10023719817399979
+    }
+  },
+  {
+    "text": "určit péči a výživu po rozvodu rodičů",
+    "intent": "question_id35",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.1001460924744606
+    }
+  },
+  {
+    "text": "placení přídavků před a po rozvodu",
+    "intent": "question_id36",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10038566589355469
+    }
+  },
+  {
+    "text": "určení péče a výživy před a po rozvodu",
+    "intent": "question_id36",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10017535835504532
+    }
+  },
+  {
+    "text": "kdo se postará o děti",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10029752552509308
+    }
+  },
+  {
+    "text": "převedení dítěte do opatrovnictví",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10028499364852905
+    }
+  },
+  {
+    "text": "navrhuji zvýšení výživného",
+    "intent": "question_id38",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10015857219696045
+    }
+  },
+  {
+    "text": "potvrzení do auta o zdravotním postižení",
+    "intent": "question_id39",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10026616603136063
+    }
+  },
+  {
+    "text": "vystavení potvrzení O7",
+    "intent": "question_id39",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10023344308137894
+    }
+  },
+  {
+    "text": "žádám o invalidní důchod",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10035606473684311
+    }
+  },
+  {
+    "text": "žádost o ustanovení zvláštního příjemce dávky důchodového pojištění",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10016962140798569
+    }
+  },
+  {
+    "text": "stanovisko obce kulturní památka",
+    "intent": "question_id41",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10019140690565109
+    }
+  },
+  {
+    "text": "závazné stanovisko ne-památka v rezervaci",
+    "intent": "question_id42",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10037004947662354
+    }
+  },
+  {
+    "text": "obec dotuje rekonstrukci památky",
+    "intent": "question_id43",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.1002984419465065
+    }
+  },
+  {
+    "text": "dotace na rekonstrukci památky obec s rozšířenou působností",
+    "intent": "question_id44",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10032907873392105
+    }
+  },
+  {
+    "text": "obrázek památkové zóny v mapě",
+    "intent": "question_id45",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10016870498657227
+    }
+  },
+  {
+    "text": "obnovit oblast památek",
+    "intent": "question_id46",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.1003960371017456
+    }
+  },
+  {
+    "text": "památka místního významu oprava",
+    "intent": "question_id46",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10061724483966827
+    }
+  },
+  {
+    "text": "ohrožení nebo poškození památky obce",
+    "intent": "question_id47",
+    "intent_prediction": {
+      "name": "question_id14",
+      "confidence": 0.10011406987905502
+    }
+  },
+  {
+    "text": "zničení kulturní památky",
+    "intent": "question_id47",
+    "intent_prediction": {
+      "name": "question_id14",
+      "confidence": 0.100110724568367
+    }
+  },
+  {
+    "text": "obnovit válečný hrob",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.1002989336848259
+    }
+  },
+  {
+    "text": "opravit památku války v obci",
+    "intent": "question_id48",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10023456811904907
+    }
+  },
+  {
+    "text": "dotace na objekt v památkové zóně",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10029266774654388
+    }
+  },
+  {
+    "text": "dotovat objekt v památkové zóně",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10034912079572678
+    }
+  },
+  {
+    "text": "přispívá na obnovu objektu v památkové oblasti",
+    "intent": "question_id49",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10031228512525558
+    }
+  },
+  {
+    "text": "mám památku na restaurování",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10030090808868408
+    }
+  },
+  {
+    "text": "ohlášení restaurování nepamátky",
+    "intent": "question_id50",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10025449097156525
+    }
+  },
+  {
+    "text": "žádost o obnovu paragraf 11",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10036192089319229
+    }
+  },
+  {
+    "text": "modernizovat objekt v památkové zóně",
+    "intent": "question_id51",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10042902082204819
+    }
+  },
+  {
+    "text": "k čemu je červený kontejner",
+    "intent": "question_id52",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.1002110093832016
+    }
+  },
+  {
+    "text": "vyhazovat spořivky a zářivky",
+    "intent": "question_id52",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10012999176979065
+    }
+  },
+  {
+    "text": "nahlášení pokácení stromu",
+    "intent": "question_id53",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.1001334935426712
+    }
+  },
+  {
+    "text": "nasekat dříví na zimu",
+    "intent": "question_id53",
+    "intent_prediction": {
+      "name": "question_id58",
+      "confidence": 0.10021960735321045
+    }
+  },
+  {
+    "text": "odborný lesní hospodář",
+    "intent": "question_id54",
+    "intent_prediction": {
+      "name": "question_id58",
+      "confidence": 0.1002984568476677
+    }
+  },
+  {
+    "text": "odejmout pozemek ze zemědělského fondu",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10032467544078827
+    }
+  },
+  {
+    "text": "odstranění ze zemědělského půdního fondu",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10026418417692184
+    }
+  },
+  {
+    "text": "informace odnětí půdy z půdního fondu",
+    "intent": "question_id55",
+    "intent_prediction": {
+      "name": "question_id58",
+      "confidence": 0.10020779818296432
+    }
+  },
+  {
+    "text": "kam s odpady",
+    "intent": "question_id56",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10019487142562866
+    }
+  },
+  {
+    "text": "stavba ve významném krajinném prvku",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10055997222661972
+    }
+  },
+  {
+    "text": "rekonstruovat významný prvek krajiny",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10019609332084656
+    }
+  },
+  {
+    "text": "stavět u významného prvku krajiny",
+    "intent": "question_id57",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10053426027297974
+    }
+  },
+  {
+    "text": "vrátit elektrozařízení",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10034894943237305
+    }
+  },
+  {
+    "text": "kam vracet elektro spotřebiče",
+    "intent": "question_id58",
+    "intent_prediction": {
+      "name": "question_id14",
+      "confidence": 0.10011237114667892
+    }
+  },
+  {
+    "text": "upustit od třídění",
+    "intent": "question_id59",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10033871978521347
+    }
+  },
+  {
+    "text": "souhrnné vyjádření odboru",
+    "intent": "question_id60",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10039065033197403
+    }
+  },
+  {
+    "text": "žádost o vyjádření odboru územní řízení",
+    "intent": "question_id60",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10041414946317673
+    }
+  },
+  {
+    "text": "stavba zdroje znečištění ovzduší",
+    "intent": "question_id61",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10014577209949493
+    }
+  },
+  {
+    "text": "zřídím zařízení pro biologický odpad",
+    "intent": "question_id62",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10030017793178558
+    }
+  },
+  {
+    "text": "budování nové skládky na bio odpad",
+    "intent": "question_id62",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10036720335483551
+    }
+  },
+  {
+    "text": "nová produkce odpadu",
+    "intent": "question_id63",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10038872063159943
+    }
+  },
+  {
+    "text": "přemístit budovu s odpady",
+    "intent": "question_id63",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10033629089593887
+    }
+  },
+  {
+    "text": "žádost umístit stavbu",
+    "intent": "question_id64",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10033633559942245
+    }
+  },
+  {
+    "text": "žádost o změnu územního rozhodnutí s umístěním stavby",
+    "intent": "question_id65",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10045511275529861
+    }
+  },
+  {
+    "text": "žádost změnit územní rozhodnutí s umístěním stavby",
+    "intent": "question_id65",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10051358491182327
+    }
+  },
+  {
+    "text": "žádám dohromady o územní a stavební povolení",
+    "intent": "question_id66",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10033818334341049
+    }
+  },
+  {
+    "text": "stavím garáž o ploše menší než 25 m2 nutné povolení",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10036948323249817
+    }
+  },
+  {
+    "text": "stavím vodovodní elektrickou přípojku nad 50 m",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10031288862228394
+    }
+  },
+  {
+    "text": "co potřebuji k stavebnímu povolení",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10031669586896896
+    }
+  },
+  {
+    "text": "rekonstrukce bytu zásah do nosných zdí povolení",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10022732615470886
+    }
+  },
+  {
+    "text": "rekonstruuji byt zasahuji do nosných zdí",
+    "intent": "question_id68",
+    "intent_prediction": {
+      "name": "question_id14",
+      "confidence": 0.10011239349842072
+    }
+  },
+  {
+    "text": "stavím s certifikátem inspektora",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10056827962398529
+    }
+  },
+  {
+    "text": "oznámit stavební záměr s inspektorem",
+    "intent": "question_id69",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10059314966201782
+    }
+  },
+  {
+    "text": "jak požádat o zkolaudování stavby",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10058093070983887
+    }
+  },
+  {
+    "text": "potřeba kolaudačního rozhodnutí",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10047046095132828
+    }
+  },
+  {
+    "text": "nemám kolaudační souhlas",
+    "intent": "question_id70",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.100522980093956
+    }
+  },
+  {
+    "text": "předčasně užívat nezkolaudovaný dům",
+    "intent": "question_id71",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.1003059521317482
+    }
+  },
+  {
+    "text": "zbourat starou chatu",
+    "intent": "question_id72",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10038603097200394
+    }
+  },
+  {
+    "text": "co se zbořeništěm",
+    "intent": "question_id72",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10037887096405029
+    }
+  },
+  {
+    "text": "ohlásit změnu stavby před dokončením",
+    "intent": "question_id73",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10031071305274963
+    }
+  },
+  {
+    "text": "provádění zimní údržby mapa",
+    "intent": "question_id74",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10021049529314041
+    }
+  },
+  {
+    "text": "plán zimní údržby",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10022520273923874
+    }
+  },
+  {
+    "text": "odstranit sníh v pruhu",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10038945823907852
+    }
+  },
+  {
+    "text": "co s hromadou sněhu u zastávky",
+    "intent": "question_id75",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10022399574518204
+    }
+  },
+  {
+    "text": "vítat občánky přihlášení",
+    "intent": "question_id76",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10064975172281265
+    }
+  },
+  {
+    "text": "uskutečnit průvod",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10045454651117325
+    }
+  },
+  {
+    "text": "kázat veřejnosti o mé víře",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.10036497563123703
+    }
+  },
+  {
+    "text": "hlášení veřejného shromáždění, nebo kázání",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.1004483550786972
+    }
+  },
+  {
+    "text": "oznámit veřejné oslavy",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10065072774887085
+    }
+  },
+  {
+    "text": "reprezentace města ve sportu",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id14",
+      "confidence": 0.1001124307513237
+    }
+  },
+  {
+    "text": "reprezentoval obec ve sportovní aktivitě",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id23",
+      "confidence": 0.1003495529294014
+    }
+  },
+  {
+    "text": "použít znak obce",
+    "intent": "question_id79",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10048629343509674
+    }
+  },
+  {
+    "text": "kde zažádat o souhlas použití logotypu, nebo znaku obce",
+    "intent": "question_id79",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.10043345391750336
+    }
+  },
+  {
+    "text": "město poskytne dotaci",
+    "intent": "question_id80",
+    "intent_prediction": {
+      "name": "question_id58",
+      "confidence": 0.10028130561113358
+    }
+  }
+]

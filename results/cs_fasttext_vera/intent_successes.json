@@ -1,0 +1,266 @@
+[
+  {
+    "text": "co s přeplatkem za komunální odpad",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id7",
+      "confidence": 0.15627478063106537
+    }
+  },
+  {
+    "text": "zrušil jsem popelnici dostanu peníze zpět",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id7",
+      "confidence": 0.18125781416893005
+    }
+  },
+  {
+    "text": "uskutečnění průvodu",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.1587822586297989
+    }
+  },
+  {
+    "text": "kázat veřejnosti o mé víře",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.1292797178030014
+    }
+  },
+  {
+    "text": "oznámení veřejné oslavy",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.16357891261577606
+    }
+  },
+  {
+    "text": "kdy svolat veřejné shromáždění, nebo kázání",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.13544416427612305
+    }
+  },
+  {
+    "text": "peníze za popelnici nazpátek",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id7",
+      "confidence": 0.16937141120433807
+    }
+  },
+  {
+    "text": "žádost o vrácení přeplatku za popelnici",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id7",
+      "confidence": 0.14068114757537842
+    }
+  },
+  {
+    "text": "pronajmout nádobu na třídění odpadu",
+    "intent": "question_id10",
+    "intent_prediction": {
+      "name": "question_id10",
+      "confidence": 0.10226351022720337
+    }
+  },
+  {
+    "text": "uspořádat veřejné kázání",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.15032678842544556
+    }
+  },
+  {
+    "text": "podělit se s veřejností o víru",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.13446231186389923
+    }
+  },
+  {
+    "text": "hlášení veřejného shromáždění, nebo kázání",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.13048841059207916
+    }
+  },
+  {
+    "text": "oznámení veřejně oslavovat",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.15859493613243103
+    }
+  },
+  {
+    "text": "vrátit peníze za popelnice",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id7",
+      "confidence": 0.21823298931121826
+    }
+  },
+  {
+    "text": "jak žádat o vrácení přeplatku za popelnici",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id7",
+      "confidence": 0.14874790608882904
+    }
+  },
+  {
+    "text": "ohlásit veřejné kázání nebo shromáždění",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.11869384348392487
+    }
+  },
+  {
+    "text": "hlásit průvod nebo demonstraci",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.13589467108249664
+    }
+  },
+  {
+    "text": "oznámit veřejné oslavy",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.1463324874639511
+    }
+  },
+  {
+    "text": "firma svolá průvod shromáždění kázání",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.11622759699821472
+    }
+  },
+  {
+    "text": "vrátit peníze za psa",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id2",
+      "confidence": 0.12014137953519821
+    }
+  },
+  {
+    "text": "nemám peníze za odhlášeného psa",
+    "intent": "question_id2",
+    "intent_prediction": {
+      "name": "question_id2",
+      "confidence": 0.10423464328050613
+    }
+  },
+  {
+    "text": "převod dítěte do opatrovnictví",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id37",
+      "confidence": 0.10064872354269028
+    }
+  },
+  {
+    "text": "jak uspořádat demonstraci",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.16287505626678467
+    }
+  },
+  {
+    "text": "hlášení průvodu nebo demonstrace",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.1274038404226303
+    }
+  },
+  {
+    "text": "sejít se shromáždit na veřejnosti",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.1343979686498642
+    }
+  },
+  {
+    "text": "kdy svolat průvod, nebo demonstraci",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.1256222426891327
+    }
+  },
+  {
+    "text": "kolik lidí na veřejném shromáždění",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.1184174194931984
+    }
+  },
+  {
+    "text": "žádám o vrácení přeplatku za popelnici",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id7",
+      "confidence": 0.17147056758403778
+    }
+  },
+  {
+    "text": "peníze za zrušení druhé popelnice",
+    "intent": "question_id7",
+    "intent_prediction": {
+      "name": "question_id7",
+      "confidence": 0.18559281527996063
+    }
+  },
+  {
+    "text": "uskutečnit průvod",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.130449578166008
+    }
+  },
+  {
+    "text": "jak demonstrovat",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.17631813883781433
+    }
+  },
+  {
+    "text": "veřejně kázat shromáždit se",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.14740699529647827
+    }
+  },
+  {
+    "text": "kdy svolat veřejnou oslavu",
+    "intent": "question_id77",
+    "intent_prediction": {
+      "name": "question_id77",
+      "confidence": 0.12570038437843323
+    }
+  }
+]

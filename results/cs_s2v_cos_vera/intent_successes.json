@@ -1,0 +1,66 @@
+[
+  {
+    "text": "určení plátce výživného",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id37",
+      "confidence": 0.10041183233261108
+    }
+  },
+  {
+    "text": "určí plátce výživného",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id37",
+      "confidence": 0.1006455272436142
+    }
+  },
+  {
+    "text": "řízení o péči a výživném",
+    "intent": "question_id37",
+    "intent_prediction": {
+      "name": "question_id37",
+      "confidence": 0.1007576510310173
+    }
+  },
+  {
+    "text": "převést nemovitost",
+    "intent": "question_id32",
+    "intent_prediction": {
+      "name": "question_id32",
+      "confidence": 0.10035358369350433
+    }
+  },
+  {
+    "text": "formulář pro přepis vlastníka nemovitosti",
+    "intent": "question_id32",
+    "intent_prediction": {
+      "name": "question_id32",
+      "confidence": 0.10118698328733444
+    }
+  },
+  {
+    "text": "kde je památková zóna ve městě",
+    "intent": "question_id45",
+    "intent_prediction": {
+      "name": "question_id45",
+      "confidence": 0.10042921453714371
+    }
+  },
+  {
+    "text": "žádám dohromady o územní a stavební povolení",
+    "intent": "question_id66",
+    "intent_prediction": {
+      "name": "question_id66",
+      "confidence": 0.10037697851657867
+    }
+  },
+  {
+    "text": "žádám o přidělení zvláštního důchodu",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10033255070447922
+    }
+  }
+]

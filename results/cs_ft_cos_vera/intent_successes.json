@@ -1,0 +1,90 @@
+[
+  {
+    "text": "kdy jezdí popeláři",
+    "intent": "question_id56",
+    "intent_prediction": {
+      "name": "question_id56",
+      "confidence": 0.10042018443346024
+    }
+  },
+  {
+    "text": "ohlásit stavbu",
+    "intent": "question_id67",
+    "intent_prediction": {
+      "name": "question_id67",
+      "confidence": 0.10042455047369003
+    }
+  },
+  {
+    "text": "žádost o příjem zvláštních důchodových dávek",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10045010596513748
+    }
+  },
+  {
+    "text": "požádání o přidělení zvláštního důchodu",
+    "intent": "question_id40",
+    "intent_prediction": {
+      "name": "question_id40",
+      "confidence": 0.10019751638174057
+    }
+  },
+  {
+    "text": "umístit nový lunapark",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.10027293115854263
+    }
+  },
+  {
+    "text": "pouliční prodej",
+    "intent": "question_id13",
+    "intent_prediction": {
+      "name": "question_id13",
+      "confidence": 0.1002291813492775
+    }
+  },
+  {
+    "text": "ocenění za záchranu života",
+    "intent": "question_id78",
+    "intent_prediction": {
+      "name": "question_id78",
+      "confidence": 0.1004762053489685
+    }
+  },
+  {
+    "text": "mám psa po přestěhování",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10025099664926529
+    }
+  },
+  {
+    "text": "ztratil se pes",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10038040578365326
+    }
+  },
+  {
+    "text": "odhlásit psa z evidence",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.1001535952091217
+    }
+  },
+  {
+    "text": "odhlášení psa z evidence",
+    "intent": "question_id1",
+    "intent_prediction": {
+      "name": "question_id1",
+      "confidence": 0.10024253278970718
+    }
+  }
+]
